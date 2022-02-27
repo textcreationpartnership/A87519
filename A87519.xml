@@ -1,0 +1,763 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The return of the sword or a divine prognostick delivered in a sermon at Newcastle : manifesting that breach of covenant is a prognostick of the return of the sword. / By Robert Jenison. Dr. of D.</title>
+            <author>Jenison, Robert, 1584?-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87519</idno>
+            <idno type="STC">Wing J563</idno>
+            <idno type="STC">Thomason E434_12</idno>
+            <idno type="STC">ESTC R20621</idno>
+            <idno type="EEBO-CITATION">99865383</idno>
+            <idno type="PROQUEST">99865383</idno>
+            <idno type="VID">117623</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117623)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E434[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The return of the sword or a divine prognostick delivered in a sermon at Newcastle : manifesting that breach of covenant is a prognostick of the return of the sword. / By Robert Jenison. Dr. of D.</title>
+                  <author>Jenison, Robert, 1584?-1652.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock, for Luke Favvne, at the sign of the Parrot in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  O.T. --  Jeremiah XXXIV, 23 --  Sermons --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643) --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117623:1" rendition="simple:additions"/>
+            <p>THE Return of the Sword OR <hi>A DIVINE PROGNOSTICK</hi> Delivered in a SERMON at Newcaſtle: Manifeſting that <hi>breach</hi> of <hi>Covenant</hi> is a Prognoſtick of the return of the <hi>SWORD.</hi>
+            </p>
+            <p>By ROBERT JENISON. D<hi rend="sup">r</hi>. of D.</p>
+            <q>
+               <bibl>
+                  <hi>LEVIT. 26.25.</hi>
+               </bibl>
+               <p>I will bring a Sword upon you, that ſhal avenge the Quarrel of my Covenant.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>EZEK. 17.18, 19.</hi>
+               </bibl>
+               <p>Seeing he hath despiſed the Oath by breaking the Covenant (when lo he had given his hand) he ſhal not eſcape. As I live, ſaith the Lord, ſurely mine Oath that he hath deſpiſed, and my Covenant that he hath broken, even it wil I recompence on his own head.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock,</hi> for LUKE FAVVNE, at the ſign of the <hi>Parrot</hi> in <hi>Pauls</hi> Church-yard. MDCXLVIII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117623:2"/>
+            <pb n="3" facs="tcp:117623:2"/>
+            <head>To the indifferent Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe Sermon notes, lying by me, having been delivered on the day of a ſolemn
+<note n="*" place="margin">Thurſday <hi>April</hi> 30. 1646</note> Faſt, kept, as by the Kingdom of SCOTLAND and by their Garriſon here, ſo by us, who ſympathizing with them, conceived their dangers and fears to be ours, and who (for that one time) made our day of ſolemn humiliation theirs, which yet we kept (for the place) alone by our ſelves; and finding that in all likelihood, they may be as uſefull at this time, as then, and may tend to our warning, by way of prevention; howſoever, to Gods glory and the juſtifying and magnifying of his ways, whether of juſtice or of mercie: I con<g ref="char:EOLhyphen"/>ceived it would conduce to thoſe ends, if, tran<g ref="char:EOLhyphen"/>ſcribing, and, here and there, enlarging the ſame, I made them, in this juncture of time, more publick; as being a word or two ſpoken
+<pb n="4" facs="tcp:117623:3"/>in ſeaſon: and that the rather becauſe I have for my part been for divers years ſo unuſefull to the Publick and a ſtranger to mine own Na<g ref="char:EOLhyphen"/>tion, though my willingneſs and endeavours were not wanting to have aſſiſted in more publike imployment with others; unto which being aſſigned, upon notice of a time then ſet for the ſitting of the Aſſembly of Divines, I un<g ref="char:EOLhyphen"/>dertook a long and tedious as alſo hazardous
+<note n="*" place="margin">From <hi>Dant<g ref="char:EOLhyphen"/>zigk</hi> to <hi>London</hi> in <hi>July,</hi> 1642.</note> Voyage: but arriving and finding that then the Kings conſent to their aſſembling was ex<g ref="char:EOLhyphen"/>pected and relied upon, and it very unlikely to be got; upon leave obtained, I haſtned to re<g ref="char:EOLhyphen"/>turn unto my poor flock at Dantzigk, and was content with ſome expence of time and mo<g ref="char:EOLhyphen"/>ney to undergo the ſame hazards: which makes me now, as occaſion offers, to be as ſer<g ref="char:EOLhyphen"/>viceable to the publicke as I may, according to my poor mite. My ayme is, as the good and warning of ſuch as God intends good unto, ſo above all Gods Glory, in the acknowledgment of which I hope they will joyn with me, whe<g ref="char:EOLhyphen"/>ther it be in a way of Juſtice or Mercy. Thine in the Lord</p>
+            <closer>
+               <signed>R. J.</signed>
+               <dateline>
+                  <hi>Newcaſtle,</hi> 
+                  <date>March 23. 1647/8.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:117623:3"/>
+            <head>THE Return of the Sword, OR A DIVINE PROGNOSTICK.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JEREMIAH 34.22.</hi>
+                  </bibl>
+                  <p>Behold, I will command, ſaith the Lord, and cauſe them to return to this City, and they ſhall fight againſt it, and take it, and burn it with fire, and I will make the Cities of Judah a deſola<g ref="char:EOLhyphen"/>tion without an inhabitant.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His prediction and threat be to the enemies of God,
+<note place="margin">The occaſion of this Text.</note> of the King, and of all theſe three Kingdoms. Yet that it be not to us either of this place, or to theſe three Kingdoms, let us take warning by it, and that in better maner then thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id to whom it was here uttered. It is not above eight moneths (I take it) that this town,
+<note place="margin">
+                  <hi>Septem.</hi> 1645. <hi>Newcaſtle.</hi>
+               </note> with the adjacent Counties, were in great fears, by reaſon of the prevailings of the E. of <hi>Monroſs</hi> and his party, who being at that time Maſter of all <hi>Scotland</hi> made his approaches very neer to <hi>England</hi> (his Scouts, as is ſaid, being then come within it:) though, upon the fears and prayers of his people of both King<g ref="char:EOLhyphen"/>doms, by a miraculous providence he was met withal, routed,
+<note place="margin">By Major Ge<g ref="char:EOLhyphen"/>neral <hi>middle<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</hi>
+               </note> ſcattered, and himſelf ſent back to his mountains: A mercy, by us of this place, and (as may be thought,
+<note place="margin">
+                  <hi>April</hi> 1646.</note> by others alſo) too ſoon
+<pb n="6" facs="tcp:117623:4"/>forgotten. And now we hear of <hi>a dangerous and ſeditious Band, under the name of an humble Remonſtrance, &amp;c. tending to the violating and ſubvertion of our Covenants</hi> (ſay our bre<g ref="char:EOLhyphen"/>thren of <hi>Scotland</hi> in a late
+<note n="*" place="margin">Declaration of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the general A<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m<g ref="char:EOLunhyphen"/>bly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Scotland</hi> And cauſes of the Faſt of this day.</note> 
+               <hi>Declaration</hi> of theirs) <hi>raiſing and fo<g ref="char:EOLhyphen"/>menting jealouſies</hi> (<hi>in</hi> Scotland) <hi>and between both Kingdoms, prolonging of the unnatural wars, and impeding the intended u<g ref="char:EOLhyphen"/>niformity in Religion.</hi> They hereupon, calling it and looking upon it as a <hi>banding Remonſtrance, a Diviſive Band,</hi> and ſeeing their Land threatned with a new <hi>Breach</hi> from the North, and in conſideration of the late ſhameful backſliding and compliance of many with the Enemies, of their want of Reformation, and not taking warning by late judgments of ſword and peſtilence, of their ſenceleſs ingratitude for drawing back his hand of peſtilence, and for giving a little breathing from the cruel inſulting Enemy, and confeſſing it juſt with God to ſend new troubles, &amp;c. <hi>They</hi> here<g ref="char:EOLhyphen"/>upon, I ſay, have appointed a ſolemn
+<note n="*" place="margin">Thurſday <hi>April</hi> 30. 1646</note> 
+               <hi>Faſt</hi> to ſeek God, and that God, in the might of his power, would cruſh this cockatrice egg, that <hi>it break not forth into a fiery flying ſerpent, &amp;c.</hi>
+            </p>
+            <p>Now they, and we, eſpecially in theſe Northern parts of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+               <note place="margin">
+                  <hi>April</hi> 29.</note> being upon the like grounds, in the ſame ſhip of danger, (and the day of our own monethly Faſt calling on us for like duty) we cannot but ſympathize and joyn with them, and with their garriſon here,
+<note place="margin">And how we are conce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned in it.</note> in regard of our common intereſt. And, though the ſtorms be laid in the Weſt of <hi>England,</hi> yet, ſeeing new clouds to ariſe, in and from the <hi>North,</hi> we are not to reſt ſecure, but to look to keep our vows, promiſes and Covenant better then we do or have done, and to maintain, what in us lieth, peace and unity, firſt with God, and then (according to our <hi>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tional Covenant</hi>) with our neighbors, and one with another; that ſo being <hi>Inſepa<g ref="char:EOLhyphen"/>rable,</hi>
+               <note place="margin">Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Jacob Aſhley.</hi>
+               </note> we may alſo be <hi>Inſuperable:</hi> ſeeing, as was ſaid by the Commander who was laſt taken and routed, and after the Kings laſt game was playd, our, or the Parliaments and (two) Kingdoms work was done, if we did not fall out among our ſelves.</p>
+            <p>Theſe things have occaſioned this text at this time, which I ſhall very briefly run through, and inſiſt only, though not largely, on one chief obſervation.</p>
+            <p>In this <hi>Chapter</hi> is the effect of <hi>two Sermons</hi> of the Prophet <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>remy.</hi>
+               <note place="margin">The occaſion of theſe words</note>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:117623:4"/>
+The <hi>firſt</hi> from Verſe 1. to 8. where <hi>Ieremy</hi> propheſieth the captivity of King <hi>Zedekiah</hi> and the City <hi>Jeruſalem, &amp;c.</hi> at the time when they of <hi>Jeruſalem</hi> were in ſome diſtreſs by the <hi>Cal<g ref="char:EOLhyphen"/>dean</hi> forces, who fought againſt it, and againſt all the Cities thereof.</p>
+            <p>The <hi>ſecond</hi> from and with the 8. Verſe to the end, when the ſiege was for ſome ſpace of time broken up upon the approach of ſome ayd from <hi>Egypt,</hi> Verſe 21.
+<note place="margin">The return of the Sword threatned.</note> whereby they were more hardened: For having in their danger, when the enemy was at hand, made ſome ſhew of remorſe and repentance, renewed their Covenants with God and the people, and made (by Covenant) ſome kind of <hi>Reformation</hi> by <hi>proclaiming liberty to their He<g ref="char:EOLhyphen"/>brew ſervants,</hi> whom,
+<note place="margin">Exod. 21.2-11</note> againſt the Law of God and the limited time of ſix years, they kept in ſervice; now when their danger ſeemed to be over, they reaſſumed them contrary to the Cove<g ref="char:EOLhyphen"/>nant of God, hoping the <hi>Caldeans</hi> would never return again to the ſiege, from which they were gone, <hi>Jer.</hi> 37.5. Now for this their breach of Govenant, they are here reproved, <hi>verſ.</hi> 12, 13, <hi>&amp;c.</hi> and <hi>threatned,</hi> ver<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 17, 18. and eſpecially as here in my text;</p>
+            <p>Behold, <hi>I will command, &amp;c.</hi>
+            </p>
+            <p>From this <hi>coherence,</hi> we <hi>note,</hi>
+               <note place="margin">The cohe<g ref="char:EOLhyphen"/>rence. Note how apt men are to make vows &amp; then to break them.</note> how ready men are in their ſtraits and preſent dangers to vow and promiſe largely both to God and man, yea and to do ſomewhat for preſent eaſe and ſafety, but yet how forgetful to perform with either God or man, when their own turn is ſerved, and they delivered. An uſual thing in all ages; See <hi>Judges</hi> 10.11, 12, 13-15, 16. <hi>Hoſea</hi> 5.15. <hi>&amp;</hi> 6.1. with 4.</p>
+            <p>The <hi>Reaſon</hi> hereof is the <hi>Deceitfulneſs, of mens hearts,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>
+               </label> till they be purged, rectified and made ſincere, <hi>Jer.</hi> 17.9. A notable example of this we have <hi>Pſal.</hi> 78.34, 35, 36, 37. where the heart is not right with God, men cannot be ſtedfaſt in his Covenant.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. There is <hi>no truſting ſuch promiſes as men</hi> make to God <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> or man, in times of their ſtraits, unleſs ſuch Promiſes, Proteſtati<g ref="char:EOLhyphen"/>ons and Covenants be out of real conviction of conſcience, and with reſpect, not to their preſent eaſe, ends or advantage (which once obtained, the true grounds of their promiſes ceaſe) but to conſcience, God, or duty.</p>
+            <p n="2">2.<milestone type="tcpmilestone" unit="unspecified" n="2"/> It ſhould teach us to <hi>be wary and very conſiderate in vow<g ref="char:EOLhyphen"/>ing,
+<pb n="8" facs="tcp:117623:5"/>promiſing and covenanting,</hi> as knowing we have deceitful hearts, of which we ſhould be jealous: Neither is it to preſume on our own ſtrength for performance, as not in promiſing and vowing to look to any low end, or to aym lower then Gods glo<g ref="char:EOLhyphen"/>ry ſome way or other. If we do ought of this nature by com<g ref="char:EOLhyphen"/>pulſion, or in our ſtraits, it commonly holds not longer then our own ends are attained: but then we break with God, and pro<g ref="char:EOLhyphen"/>voke God to break in upon us one way or other, and to bring the evil upon us which we feared, and for the preventing and a<g ref="char:EOLhyphen"/>voyding of which we were ſo forward to vow, as here in the text.</p>
+            <p>In which words we have this one thing chiefly to conſider, namely <hi>the hainouſneſs and hatefulnes of this ſin of breach of Co<g ref="char:EOLhyphen"/>venant with God.</hi> Of which in the laſt place.</p>
+            <p>But <hi>firſt,</hi> briefly to hint only other things, and not to handle them;</p>
+            <p>We have here <hi>firſt,
+<note place="margin">Parts of the Text. 1, A Denun<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ation o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> judg<g ref="char:EOLhyphen"/>ment. 2. The Succeſs thereof. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>efore which a note of at<g ref="char:EOLhyphen"/>tention <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> A fearful Denunciation,</hi> whereby <hi>Jeremy</hi> gives King <hi>Zedekiah</hi> and his Princes into the hands of his and their enemies for their diſobedience and breach of Covenant.</p>
+            <p>
+               <hi>Secondly,</hi> Certain <hi>effects</hi> and <hi>ſucceſs</hi> of it. 1. Againſt <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> which are three. 2. Againſt the <hi>Cities of Judah,</hi> which is <hi>Deſolation.</hi> Before all which is premiſed a note of Attention.</p>
+            <p>
+               <hi>Behold, I will command, &amp;c.</hi> This called on them, 1. <hi>to look back,</hi> to call to mind and view their ſins, firſt and laſt, as the juſt provokers of Gods wrath, that ſo, if poſſible, and if it were not too late, they might be brought back to repentance; or how<g ref="char:EOLhyphen"/>ſoever, ſee and be convinced of the righteouſneſs of Gods judg<g ref="char:EOLhyphen"/>ment thus denounced againſt them. 2. <hi>To look forward,</hi> and to expect certain wrath from God, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Note;
+<note place="margin">Note.</note> Gods Word, and threatnings by his ſervants, and all ſigns holding forth his wrath, would diligently and attentively be obſerved by us, and warning thereby taken:</hi> Herein King <hi>Ze<g ref="char:EOLhyphen"/>dekiah</hi> failed,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. 36 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>as not humbling himſelf before</hi> Jeremiah <hi>the Pro<g ref="char:EOLhyphen"/>phet, ſpeaking from the mouth of the Lord.</hi>
+            </p>
+            <p>This may be of <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> to us. To them it proved an irrevocable ſentence,
+<note place="margin">In the Den<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation.</note> ſuch as we alſo may expect, if in time we behold not ſuch things to purpoſe.</p>
+            <p n="1">
+               <pb n="9" facs="tcp:117623:5"/>
+1. In the <hi>Denunciation;</hi> take notice,</p>
+            <p n="1">1. Of the <hi>Authority</hi> by which the Prophet denounceth this evil: <hi>— ſaith the Lord,</hi>] ſo <hi>verſ.</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 13.
+<note n="1" place="margin">The Autho<g ref="char:EOLhyphen"/>rity by which the Prophet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it <hi>Doct<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> It was the Word of the Lord which came to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>miah</hi> from the Lord himſelf, &amp;c.</p>
+            <p>
+               <hi>Note: In <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our reproofs and Denunciations, we Miniſters muſt do all by, (or according, at leaſt,) to Gods Word, ſo ſhewing what God will do, but doing nothing on our heads or in our own names.</hi> Our words, if not ſo taken, will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be but as <hi>wind,</hi>
+               <note place="margin">Jer 5.12, 13.</note> and loſe their weight and authority: which concerns the <hi>people</hi> alſo to look unto, that <hi>they receive Gods Word as his Word:</hi>
+               <note place="margin">1 Theſ. 2.13.</note> other<g ref="char:EOLhyphen"/>wiſe no profit will redound to them from it, as not to young <hi>Sa<g ref="char:EOLhyphen"/>mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> till he left running to old <hi>Eli,</hi> and acknowledged God ſpeaking to him: nor to <hi>Eli</hi> himſelf, but as he ſaw God ſpeaking to <hi>Samuel;</hi> and ſo he beleeved <hi>Samuel,</hi> though a very child, tel<g ref="char:EOLhyphen"/>ling him from God of the deſtruction of his houſe,
+<note place="margin">1 Sam. 3 7, 8, 10, 11, &amp; 18.</note> and ſo humbly <hi>ſubmitted</hi> to the will of God, ſaying, <hi>It is the Lord; let him do what ſeemeth him good.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> But yet concerning us in theſe days it will be asked,
+<note place="margin">
+                  <hi>Queſt.</hi> With what certainty Mi<g ref="char:EOLhyphen"/>niſters now f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>retel of judgments. With more then conje<g ref="char:EOLhyphen"/>ctural cer<g ref="char:EOLhyphen"/>tainty.</note> what certainty is or can be in our like denunciations? Me thinks I hear ſome ſay, as once <hi>Satan</hi> to the exorciſts, <hi>Ieſus I know, and Paul I know, and Samuel I know, Ezekiel, and Ieremiah I know, but who are you?</hi> Can you ſo plainly and peremptorily denounce judgments, and particularly the <hi>Sword</hi> to us now? To this <hi>I anſwer;</hi> what we, as Gods Miniſters, can do in this kind, may in good part appear by that which hath been already done in this our Nation. The Prophets of old were b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to proph<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y and ſay, <hi>Thus ſaith the Lord, ſay a ſword,
+<note place="margin">Ez k 21 9, 10 12 &amp;c.</note> a ſword is ſharp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed &amp; alſo fourbiſhed, &amp;c. It ſhal be upon my people, &amp;c.</hi> And it was upon that people. Even ſo, deny it who can, of latter years,
+<note place="margin">Upon what grounds.</note> before the ſword came on <hi>England,</hi> the faithful Miniſters of <hi>Ieſus Chriſt,</hi> as with one mouth throughout the Land, denounced the judg<g ref="char:EOLhyphen"/>ment of the ſword and forewarned our people of it, and lo,
+<note place="margin">Iſaiah 44.26</note> be<g ref="char:EOLhyphen"/>hold it is come: for God hath now, as well as of old, <hi>confirmed the word of his ſervant, and performed the coun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el of his m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſen<g ref="char:EOLhyphen"/>gers.</hi> And we, upon as good and probable grounds, forewarn you of the <hi>Return</hi> of the Sword (whether from the North, or from among our ſelves again, or from forraign Nations;) God opens our mouths to ſpeak of ſuch things; and we find like
+<pb n="10" facs="tcp:117623:6"/>grounds in <hi>Scripture</hi> (by which now he chiefly ſpeaks to us, <hi>Heb.</hi> 1.11.)
+<note place="margin">Op<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ge de ſu<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> conſuitant qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fu<g ref="char:EOLhyphen"/>tu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>um ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aex prat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itis <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ament.</note> from like <hi>threats</hi> for like ſins, which he hath fulfilled; and ſo from like examples of like wrath (as here) for the ſame and like ſins, as we ſee; as particularly here we have the <hi>Return of the Sword</hi> denounced for mens return to their former ſins by breach of Covenant with God and man: And ſo, going upon ſuch grounds, and ſeeing God is ever and in all ages like himſelf, we, though no <hi>extraordinary Prophets,</hi> yet as <hi>Prophets</hi> in a larger fence, and interpreters of Gods mind and will made known to us in his Word (and to us more then to others) do ſtill and can give warning, and foretel according to the rules of Scripture, and method which there God uſeth (and partly by experience) what God will do with ſuch a people, nation, yea and perſon: for we ſee and obſerve there how God uſeth to ſecond and follow former and leſſer judgments with greater; and at length, in caſe of impenitency, to cut off: Not to ſay, how God, minding to de<g ref="char:EOLhyphen"/>ſtroy a Nation, or to bring evil upon a place, ſeldom, if ever, doth it indeed till he give warning by his Prophets, and by a more pe<g ref="char:EOLhyphen"/>culiar providence <hi>both</hi> inlighten <hi>and</hi> excite them to take and give notice of the ſame, that ſo if men periſh they may not ſay it is be<g ref="char:EOLhyphen"/>cauſe God took them at the worſt, or watched for occaſion againſt them, but that he fairly warned them, and that <hi>their periſhing is on their own head;</hi> according to that, — <hi>ſhall there be evil in a City and the Lord hath not done it?
+<note place="margin">Amos 3 6, 7.</note> Surely, the Lord God Will do nothing, but he revealeth his ſecret unto his ſervants the Prophets.</hi>
+            </p>
+            <p>So that by more then bare conjectural Application, we can ſhew men what will be, and give warning thereof according to our duty, and in ſo doing we may and ought to ſay, <hi>Thus ſaith the Lord.</hi>
+            </p>
+            <p>And God thus confirming his Word, ſpoken by us weak men, doth both honor his own truth, holineſs and juſtice, <hi>Pſa.</hi> 145.17. <hi>Ezek.</hi> 14.23. as alſo his faithful ſervants and Miniſters; thus both proving and approving of them as true Prophets, and all other to be <hi>time-ſervers,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſt</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> take warning be<g ref="char:EOLhyphen"/>ing threatned and not to ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſt.</note> Jer. 28.8, 9.</p>
+            <p>It will father concern us all of this Nation, from the experience we have had of the truth of ſuch forewarnings of the Sword, now fulfilled and come to paſs, (whereby he hath confirmed the word
+<pb n="11" facs="tcp:117623:6"/>of his ſervants and vouched them to be true Prophets, though for their faithfulneſs in this kind, their mouth have been ſtopped, and they forced by the tyrannical power of the high <hi>Commiſſion</hi> and otherwiſe to keep ſilence for any publick diſcharge of their duty,) I ſay, now that the evils foretold are come to paſs, and the <hi>mouthes of Gods faithful</hi> ones are opened again, as <hi>Eze<g ref="char:EOLhyphen"/>kiels</hi> was upon the taking of <hi>Ieruſalem,</hi> or the news of it, it will <hi>concern us</hi> to give more diligent heed to ſuch forewarnings as are given us by them of the <hi>Return of the Sword,</hi> or of the continu<g ref="char:EOLhyphen"/>ance or renewing of it; and to ſeek by renewing and keeping our Covenants with God and man, to prevent the ſame, leſt other<g ref="char:EOLhyphen"/>wiſe, as <hi>Ezekiel,</hi> having formerly foretold the taking of <hi>Ieruſa<g ref="char:EOLhyphen"/>lem,</hi> and thereupon had his mouth ſtopped, yet when upon the news of taking the City his mouth was opened, as God had fore<g ref="char:EOLhyphen"/>told him,
+<note place="margin">See and com<g ref="char:EOLhyphen"/>pare <hi>Ezek.</hi> 3.25, 26, 27. with <hi>Eze.</hi> 24.26, 27 &amp; <hi>ch.</hi> 33.21, 22, 24, &amp;c. to the end</note> he propheſied the deſtruction or deſolation of the <hi>whole Land,</hi> and Gods judgments upon ſuch as mocked him and made light of his propheſie; which accordingly came alſo to paſs; <hi>ſo</hi> Gods true Prophets now having by his mercy their liberty of pro<g ref="char:EOLhyphen"/>pheſying reſtored, and foreſhewing further judgments, the Lord, by confirming their word, and when ſuch things indeed come to paſs, do make it fully known, and convince ſuch as are now ſe<g ref="char:EOLhyphen"/>cure and incredulous, that he hath not been wanting to them, neither firſt nor laſt, but <hi>that a Prophet hath been among them.</hi>
+            </p>
+            <p>This need not be ſo ſtrange to us,
+<note place="margin">Eſpecially if guilty of like ſins.</note> that Gods further diſplea<g ref="char:EOLhyphen"/>ſure, in the continuance or renewing of the Sword, ſeems to threaten, not the <hi>City</hi> only, but the whole Land (eſpecially in theſe Northern parts) when we conſider our great ſecurity and ſelf-confidence, eſpecially upon former good ſucceſſes, whereby, among other ſins of mocking and deſpiſing, if not miſuſing the Prophets of God and faithful Miniſters of Chriſt, who are dayly leſs eſteemed then before, <hi>&amp;c.</hi> We <hi>ſtand</hi> upon our multitude, and <hi>upon our ſword</hi> (as the <hi>Iews</hi> did) though otherwiſe we <hi>ſtand</hi> ſtill guilty of many pollutions, licentious living, yea doctrines,
+<note place="margin">Ezek. 33.24, 25, &amp;c.</note> care<g ref="char:EOLhyphen"/>leſs performance of vows, promiſes, covenants with God and man, if not, in a manner diſavowing the ſame: So that in this our preſent caſe of impenitency, and that we fully <hi>turn not to him that hath ſmitten us: We,</hi> without preſumption or raſhneſs, may ſay, <hi>that the anger of the Lord is not (yet) turned away,
+<pb n="12" facs="tcp:117623:7"/>but his hand is ſtretched out ſtill:</hi> Seeing Gods method of pro<g ref="char:EOLhyphen"/>ceeding with a Nation or City is ſuch as where we profit not by former or preſent judgments, we muſt expect greater wrath till we periſh, as <hi>Iſa</hi> 9.11, 12, with 13. and as I more fully ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w in <hi>Divine
+<note n="*" place="margin">Preach<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d 1625, 1626</note> 'Prognosticks</hi> on that text.</p>
+            <p>Only in caſe of a Nations <hi>returning</hi> to God by <hi>Repentance,</hi> and <hi>Humiliation,</hi>
+               <note place="margin">2 Upon taking warning to hope the evils threatned will be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enemies.</note> together with <hi>Reformation</hi> of life and conver<g ref="char:EOLhyphen"/>ſation, of Church and State according to Gods Word, and true ſubmiſſion thereunto, we can both hope and alſo aſſure you (in the name of God) that God will take the cup out of our hands, and make the enemies, (the Popiſh and Antichriſtian party eſpeci<g ref="char:EOLhyphen"/>ally) drink the dreggs of it, by turning the dint of the ſword, and by making war againſt the beaſt: that, <hi>as</hi> we were the laſt (being with <hi>Ireland</hi> the remoteſt Weſtward) who felt the fury of the beaſt (as it was only the laſt of ten perſecutions, <hi>ſc.</hi> that under <hi>Diocleſian,</hi> which found us out in this Land, and reached us:) for we only, for a long time, looked on and were ſpectators of the troubles, wars and combuſtions in all other Kingdoms: <hi>ſo,</hi> if once we were but truly humbled and reformed, by occaſion of our late troubles and the ſword amongſt us: The devil, beaſt and falſe prophet, having ſpit out their whole malice throughout the Chri<g ref="char:EOLhyphen"/>ſtian world, and ending with us, ſhould ſoon fed the power of Chriſt or the <hi>wrath of the Lamb;</hi> and be conſumed (more then ever) by the ſame, whileſt we ſhould injoy peace with the Go<g ref="char:EOLhyphen"/>ſpel in the purity and power of the ſame, and become a quiet ha<g ref="char:EOLhyphen"/>bitation; which we alſo dare aſſure Gods people of, when once (or it may be, <hi>after</hi> and upon ſome new and ſharp handling) we ſhall be ſincerely humbled and purely purged from our droſs.</p>
+            <p>This doubt removed concerning the <hi>authority</hi> by which <hi>the Prophet did denounce this judgment;</hi>
+               <note n="2" place="margin">The Authority by which the judgment cometh.</note> We may, <hi>ſecondly,</hi> take no<g ref="char:EOLhyphen"/>tice of the <hi>authority by which this judgment of the ſword cometh,</hi> or of that <hi>ſoveraign power</hi> by which the ſword cometh again upon them, or of the Original or <hi>efficient cauſe</hi> of war, begun or renewed, and <hi>whence</hi> it is that enemies were to return again. To which I anſwer;</p>
+            <p>
+               <hi>Anſw.</hi>
+               <note n="1" place="margin">Negatively.</note> It is not from Enemies themſelves, who cannot, though
+<pb n="13" facs="tcp:117623:7"/>they were moſt malicious, yea powerful,
+<note place="margin">The ſword comes not by mans will. <hi>Non enim paſ<g ref="char:EOLhyphen"/>ſant quod non ſivumur eſſi<g ref="char:EOLhyphen"/>cere.</hi>
+               </note> (as is Satan him elf) do what they would, but what God wills,: they muſt do all by <hi>permiſſion,</hi> yea <hi>commiſſion</hi> from God: ſo that if God be ours, and we in Covenant with him, and he with us we need <hi>not fear what men or devils can do unto us;</hi> neither ſhould they brag of their power, or threaten, or tell us what they will or can do. On<g ref="char:EOLhyphen"/>ly if God be not with us, or that we return not to him, or keep not cloſe with him, its not for us to truſt to our own ſtrength, policy, yea goodneſs of our cauſe in the general, or to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormer good ſucceſs: <hi>Why?</hi> It is God we have to deal withal, who if he be not our friend, we can want no Enemies. It is he that commands and orders the battel. All muſt and ſhall be as he will, and according to his appointment and command. And therefore it is here ſaid,
+<note place="margin">But ſecondly, by Gods command.</note>
+            </p>
+            <q>I will command, ſaith the Lord, and cauſe them to re<g ref="char:EOLhyphen"/>turn to this City, &amp;c.</q>
+            <p>Now God doth this by his ſecret providence, ſo procuring and ordering things, and ſo diſpoſing of the thoughts and coun<g ref="char:EOLhyphen"/>ſels of Enemies, as if he had given them ſome command ſo to do. So he is ſaid <hi>to bid Shimei curſe 'David,</hi> 2 <hi>Sam.</hi> 16.10. See 2 <hi>Kings</hi> Chap. 24. Verſ. 1, 2, 3. 2 <hi>Chron.</hi> 36.17. <hi>Jer.</hi> 49, 14. <hi>&amp;</hi> 50.21.</p>
+            <p>
+               <hi>Note: God, the Lord of hoſts,
+<note place="margin">Note. God, com<g ref="char:EOLhyphen"/>mander in caief of <hi>all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rmies.</hi> Deut. 28.50, 51, 52.</note> is Commander in chief of all the Armies under heaven.</hi> He is that great <hi>Centurion,</hi> who, at his only pleaſure bids <hi>go</hi> and <hi>come,</hi> and is obeyed. It is only the <hi>Lord</hi> that <hi>ſends a Nation againſt his people. The Lord ſhal bring a Nation againſt thee from far, and he ſhall beſiege thee in all thy gates, until thy high and fenced walls come down, wherein thou truſteſt, &amp;c.</hi>
+            </p>
+            <p>This was the caſe of
+<note n="*" place="margin">Newcaſtle.</note> 
+               <hi>this place</hi> a while ago: and may it not be ſo again with us and other Cities and Towns? God is the ſame ſtil in his judgments where men are the ſame in ſin: He therfore is alſo ſaid to <hi>call for ſword,</hi> Jer. 25.29. <hi>to give the ſword a commiſſi<g ref="char:EOLhyphen"/>on,</hi> and to ſay, —<hi>ſword go through the Land,</hi> Ezek. 14.17. <hi>to muſter the hoſt of the battel,</hi> Iſa. 13.4. The Lord appoints it for all circumſtances, beginning, continuance, <hi>Jer.</hi> 47.6, 7. <hi>Haſ.</hi> 11.6. and ending, <hi>Pſa.</hi> 46.9.</p>
+            <p>
+               <pb n="14" facs="tcp:117623:8"/>
+It will be our wiſdom then not to provoke this great Com<g ref="char:EOLhyphen"/>mander and glorious God, from whom there is no fleeing, as no re<g ref="char:EOLhyphen"/>ſiſtance againſt him, <hi>Amos</hi> 4.11, 12, 13. Its good having him on our ſide,
+<note place="margin">
+                  <hi>Uſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Not to pro<g ref="char:EOLhyphen"/>voke him.</note> and (having any way provoked him) betimes to meet him, or to ſend before us our prayers, tears, &amp;c. while he is yet far off, and ſo <hi>to agree with him our Adverſary,</hi> which is the way to prevent the ſword, or, if it be upon us, to <hi>quiet it, which will not be till God diſcharge it,</hi> Jerem. 47.6, 7.</p>
+            <p>But what doth God command,
+<note n="3" place="margin">What doth God com<g ref="char:EOLhyphen"/>mand. The return of enemies.</note> and do?</p>
+            <q>
+               <hi>I will cauſe them</hi> (the <hi>Chaldaeans) to return.</hi>
+            </q>
+            <p>
+               <hi>Note.</hi> 1. <hi>When one danger is paſt, it's not ſafe to be ſecure:</hi> it, or the like, yea, much worſe may and will, in caſe of impenitency, re<g ref="char:EOLhyphen"/>turn. Danger is not always paſt, when it ſeems over: Many are for preſent reſpited,
+<note place="margin">Note. 1. Dangers return to the impenitent.</note> reprived, preſerved from common danger; but where pardon is not timely ſought by them, or the ſame, or other ſins returned unto, their <hi>Preſervation</hi> proves but their <hi>Reſerva<g ref="char:EOLhyphen"/>tion</hi> to greater and more remarkable judgments. The former may be from Gods Patience, and other
+<note n="*" place="margin">See my <hi>New<g ref="char:EOLhyphen"/>caſtles</hi> Call, in the Preface.</note> ends; the latter from Gods <hi>Juſtice and Holineſs.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> 1. It's not for any then to dally with God, or to preſume on his Patience, by abuſing his ſparing mercies; his pardoning mer<g ref="char:EOLhyphen"/>cies in Chriſt would eſpecially be ſought.</p>
+            <p n="2">2. We are neither ſimply to beg a removal of the evil which preſſeth us, nor to take the removal of it as a mercy, unleſs ſin be firſt or withall removed.</p>
+            <p n="2">2. <note n="2" place="margin">How fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gods provi<g ref="char:EOLhyphen"/>dence is in e<g ref="char:EOLhyphen"/>vil mens acti<g ref="char:EOLhyphen"/>ons.</note> 
+               <hi>I will command and cauſe them to return, &amp;c.</hi>] Surely theſe <hi>Babylonians</hi> had no intention to fight Gods Battels, or to ſerve under him, but had ends baſe and bad enough, different from Gods; as <hi>Iſai.</hi> 10.5, 6, 7. we might here <hi>note, how far generally God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath an hand in evill mens actions,</hi> and how far they do his will, when he ſends them to <hi>an hypocritical nation,</hi> to be his ex<g ref="char:EOLhyphen"/>ecutioners. For in war Gods Intentions and Purpoſes are one, and mens grounds, ends and ayms another. God by them may juſtly puniſh an unthankful people for their ſins againſt him, when they ſhall ſin by taking up arms againſt ſuch as have done them no wrong, out of their own ambition, covetouſneſs, contrariety and madneſs againſt the Truth of God profeſſed outwardly by his people. And ſometimes God intends good to his people by ſo
+<pb n="15" facs="tcp:117623:8"/>ſcourging them a while, to bring them to repentance, amendment, and Reformation, and ſo in the end, to <hi>beautifie them by deliver<g ref="char:EOLhyphen"/>ances,</hi> to make them <hi>for midable to all about them,</hi> as 2 <hi>Chron.</hi> 17.11. — &amp; 20.29, 30. to bind them the more in thankfulneſs to him<g ref="char:EOLhyphen"/>ſelf, yea, for his own greater glory, and the greater ſhame and con<g ref="char:EOLhyphen"/>fuſion of his, and his peoples enemies. <hi>Pſal.</hi> 9.16, 17, 18. <hi>Rom.</hi> 9.17. or <hi>Exod.</hi> 9.16. <hi>Joſh.</hi> 11.19, 20. Enemies by Gods juſt Pro<g ref="char:EOLhyphen"/>vidence often riſe up againſt Gods People, that they may fall before men, &amp;c. As then the wiſe Phyſitian applying his Leeches to the Patient, intends health thereby, whereas the Leeches ſeek only to glut themſelves with blood; ſo God lets his people blood by war, for their good, and his own glory, though the other think not ſo.</p>
+            <p n="3">3. <hi>To this City.</hi>] i. <hi>Jeruſalem:</hi> to <hi>this City,</hi> not <hi>that;</hi>
+               <note n="3" place="margin">Gods judg<g ref="char:EOLhyphen"/>ments come with choyce.</note> at leaſt to this now, and not to that till a fitter time.</p>
+            <p>
+               <hi>Note: God ſends the ſword with choyce, as to</hi> Jeruſalem <hi>of</hi> Ju<g ref="char:EOLhyphen"/>dah, <hi>and not,</hi> as yet, <hi>to Rabbath of the</hi> Ammonites; ſee <hi>Ezek.</hi> 21.19, 20, 21, 22. So other judgments; as that of drought, <hi>Amos</hi> 4.7, 8. <hi>&amp;c.</hi> So that where Gods judgments, in any kind, and ſpeci<g ref="char:EOLhyphen"/>ally this of the ſword, are in any place, as ſuppoſe in this City or Town, not that; in this houſe, not that; in this Kingdom, not that; there is ſome ſpecial Reaſon in Gods Counſel for it, which would ſo far be ſearched out, ſpecially by that place, &amp;c.</p>
+            <p n="2">2. Now <hi>ſecondly,</hi>
+               <note place="margin">
+                  <hi>Second part.</hi> The effects of this Denuncia<g ref="char:EOLhyphen"/>tion; With reſpect</note> the <hi>effects and ſucceſs of this</hi> Denunciation would, in a word only, be taken notice of.</p>
+            <p n="1">1. Againſt <hi>Jeruſalem;</hi> and they are <hi>three.</hi>
+            </p>
+            <p n="1">1. <hi>They ſhall fight against it.</hi>] Not only barely look on, or threaten it, as in good <hi>King Hezekiah's time,</hi>
+               <note n="1" place="margin">to <hi>Jeruſalem.</hi> Enemies ſhall</note> when not an <hi>arrow was ſhot againſt it,</hi> Iſai. 37.33. No, <hi>King Zedekiah</hi> muſt look for no ſuch favour. See <hi>Jer.</hi> 21.1, 2, 3. &amp;c. Sinners muſt not look to find as Saints.
+<note n="1" place="margin">fight againſt it.</note>
+            </p>
+            <p n="2">2. <hi>And take it.</hi>] Thats more. Before, they <hi>fought</hi> againſt <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> but the ſeidge was raiſed.
+<note n="2" place="margin">Take it. Our confiden<g ref="char:EOLhyphen"/>ces ſhall fayl.</note> But now the Jews looked for their help, (the like help from <hi>Aegypt) but in vain,</hi> Lament. 4.17. When God indeed will puniſh, all our <hi>confidences</hi> ſhall be remo<g ref="char:EOLhyphen"/>ved, or fayl us.</p>
+            <p>God thus ſpeaketh to this people, — <hi>The Lord hath rejected thy confidences, and thou ſhalt not proſper in them.</hi>
+               <note place="margin">Jer. 2.37.</note> And <hi>Job</hi> thus
+<pb n="16" facs="tcp:117623:9"/>ſpeaketh of God;
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 9.3.</note> 
+               <hi>If God will not withdraw his anger, the proud helpers (or helpers of pride or ſtrength) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o stoop under him.</hi>
+            </p>
+            <p>It is therefore good having God for our help and hope;
+<note place="margin">Uſe.</note> ſee <hi>Pſal.</hi> 146.5, 6.</p>
+            <p>
+               <hi>Again,</hi>
+               <note n="2" place="margin">Judgments, thou; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> un <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, will betall.</note> The taking of <hi>Jeruſalem</hi> might ſeem Incredible, <hi>Lament.</hi> 4.12. But when our ſins are ripe, God can do that which we cannot conceive, and far beyond that which any, the oldeſt in his time, hath ſeen, <hi>Ioel</hi> 1.1, 2. &amp;c.</p>
+            <p n="3">3. <note n="3" place="margin">It's no to truſt in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ward ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t means.</note> Let none then (whileſt God is an enemy) flatter themſelves or truſt in any confidences of their own; not in their Allies and Confederates, not in the outward Ordinances, whileſt they walk not according to them, <hi>Ier.</hi> 7.4. &amp;c. Not in horſes, men, though Princes, <hi>Pſal.</hi> 20.7. &amp; 146.3, 4, 5. Not in their own ſtrength, in their ſtrong or high walls, as is ſaid, &amp;c. <hi>Deut.</hi> 28.50, 51, 52.</p>
+            <p n="3">3. <note n="3" place="margin">Burn it.</note> 
+               <hi>And burn it with fire.</hi>] This is yet worſe, being threatned, <hi>Amos</hi> 2.4. Many towns are taken, yet not conſumed with fire; that is counted barbarous in <hi>enemies,</hi> as of late in our barbarous <hi>Cavaliers,</hi> and <hi>Popiſh</hi> and <hi>Iriſh</hi> eſpecially, who burned the towns they took, ſuch eſpecially as they could not keep: And it is <hi>ſevere</hi> and <hi>ſore in God,</hi> and ſhould deeply <hi>humble</hi> ſuch as have found it ſo with them; but make <hi>us</hi> of this place more <hi>thankful</hi> both to God and man; who, (deſerving as ill as any) though the town was taken by ſtorm, yet ſcarce felt the ſmel of fire.</p>
+            <p>Now,
+<note place="margin">From all theſe <hi>Note.</hi> Gods gr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>daal proceedings in his judgments.</note> 
+               <hi>note</hi> from all theſe <hi>three,</hi> and the <hi>order</hi> of them, <hi>how God commonly proceeds by degrees in his judgments,</hi> from the leſ<g ref="char:EOLhyphen"/>ſer to the greater, till he at length utterly cut off and deſtroy. He firſt trieth them, as by divers other leſſer evils, as by <hi>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arths, inun<g ref="char:EOLhyphen"/>dations peſtilence, &amp;c.</hi> So by the <hi>ſword,</hi> which he firſt <hi>threatens, Lev. t.</hi> 26.25. Then by a <hi>ſeige</hi> only, as in <hi>King Hezekiah's time.</hi> If this do no good, then by <hi>ſighting</hi> againſt their Cities, as here in the firſt ſeige of <hi>Ieruſalem,</hi> which upon their ew rening of their Covenant with God and ſome Reformation was removed. Next, by <hi>taking</hi> of their Cities and no more; or, it may be, by taking and alſo <hi>plund ring</hi> the ſame, or ſpoyling their goods; as it was with <hi>King Rehoboam,</hi> and his Princes, who repenting at the preaching of <hi>S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>maſah,</hi> were delivered from deſtruction, but not from ſpoyl: God would grant them ſome deliverance,
+<note place="margin">2 Chron 11, 4, 5, 6, 7, 8, 9.</note> (or a <hi>little while</hi>) and no. <hi>pour <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t his wrath upon</hi> Jeruſalem <hi>by the hand of</hi> Sl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhak;
+<pb n="17" facs="tcp:117623:9"/>
+               <hi>So he took away the Treaſures of the Houſe of the Lord, and the Treaſures of the Kings Houſe; he carryed away alſo the ſhields of gold which</hi> Solomon <hi>had made. Lastly,</hi> when none of theſe will reform us, then he gives the Cities, and goods in it, to <hi>the fire,</hi> and the men or evil doers in it to the <hi>ſword,</hi> to Captivity, Famine, yea to <hi>Deſtruction,</hi> and that (without repentance intervening) of <hi>ſoul</hi> eternally, as well as of <hi>body</hi> temporally.</p>
+            <p>Oh gracious and merciful God, <note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe. This his long<g ref="char:EOLhyphen"/>ſuffering is a mercy. And ſhould haſten our repentance.</note> full of long-ſuffering and pati<g ref="char:EOLhyphen"/>ence, both to cut off finally till there be no remedy! How ſhould this his manner of proceeding with us lead us to <hi>repentance!</hi> How, if we were wiſe, ſhould we be warned by his bare threats? How<g ref="char:EOLhyphen"/>ſoever when he comes nearer us by ſome leſſer evils. See the differ<g ref="char:EOLhyphen"/>ent carriage of <hi>two Kings, King Hezekiah,</hi> and <hi>King Hoſhea;</hi> both were alike threatned by the Prophet <hi>Micah,</hi> who preached both to <hi>Samaria</hi> and <hi>Ieruſalem,</hi> and threatned <hi>Zion</hi> and <hi>Ieruſalem</hi> as well as <hi>Samaria, Micah</hi> 1.1. &amp; 3.12. But <hi>King Hezekiah</hi> took warning, <hi>feared the Lord, and beſought the face of the Lord, and the Lord repented him of the evil which he had pronounced againſt them,</hi> Jer. 26.18, 19. But did <hi>King Hoſhea</hi> ſo? No, <hi>He did evil in the ſight of the Lord, (yet not as the Kings of</hi> Iſrael <hi>that were before him:</hi>) Yet the <hi>King of</hi> Aſſyria <hi>went up to</hi> Samaria <hi>and be<g ref="char:EOLhyphen"/>ſeidged it,</hi> — and after three years ſeidge <hi>took it,</hi> and carryed <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> away into Captivity, &amp;c. So that Kingdom came to an end. And we have heard how, though at another time, <hi>King Hezekiah</hi> was beſeidged with a mighty and an inſolent enemy, yet he ſeek<g ref="char:EOLhyphen"/>ing to the Lord was miraculouſly delivered.</p>
+            <p>Oh that we could be thus wiſe, or, at leaſt, ſo wiſe as was <hi>King Rehoboam,</hi> who, upon <hi>repent ance,</hi> ſcaped with a plundering. Only, ſo it was with many of late in this our Nation, and with us alſo of this place, who were only gently for the moſt part plundred. What may ſeem to be next, if we and other Cities make not better uſe of the <hi>mercy,</hi> as well as of the ſeverity? what? but deſtruction.</p>
+            <p n="2">2. <note n="2" place="margin">With reſpect to other Cities of <hi>Judah.</hi>
+               </note> 
+               <hi>And I will make the Cities of</hi> Judah <hi>a deſolation without an inhabitant.</hi>] This is the <hi>effect</hi> of this Denunciation againſt the <hi>Cities of Iudah;</hi> of which I will ſay no more but this, that <hi>like as is the Mother, ſo are the Daughters,</hi> both for ſin and puniſh<g ref="char:EOLhyphen"/>ment. Other leſſer Cities commonly follow the faſhions of the Mother City, both in good, but eſpecially in evil. Great Cities
+<pb n="18" facs="tcp:117623:10"/>and Towns ſhould ſee to give good example to others; otherwiſe (ſo far) they become guilty, not only of their own, but of others ſin, and cauſes, at leaſt <hi>occaſions</hi> of their puniſhments.</p>
+            <p>Such <hi>general</hi> Deſolations are the fruit of ſin perſiſted in againſt former mercies and leſſer chaſtiſments from God,
+<note place="margin">Deſolation. Which is a fruit of ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<g ref="char:EOLunhyphen"/>neſs of hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Pſal. 107 34.</note> unto which ſenc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leſs ſinners are at length given over. God is provoked at length to <hi>turn a fruitful Land into barrenneſs for the wickedneſs of them that dwel therein:</hi> As ſin diſpeopled the whole world in the flood; and the paradiſe of the world, the <hi>Land of Iudah;</hi> for now was acco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pliſhed that wrath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olong foretold, by the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> in the deſolation<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o this people for their obſtinacy. <hi>Their hearts were made fat,</hi> — to that the word in the Miniſtry of it had no ſaving effect on the moſt of them,
+<note place="margin">Iſai. 6.10, 11, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 13. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> which their obſtina<g ref="char:EOLhyphen"/>cy was to continue <hi>ſo long, until their Cities be waſted without inhabitant, and the houſes without man, and the land be utterly deſolate, deſolate with deſolation; and the Lord have removed men far away, and there be a great forſaking in the Land.</hi>
+            </p>
+            <p>Such deſolations muſt they expect at length who neglect leſſer warning, and who harden themſelves againſt the word, mercies, judgments, and <hi>forget their vows, promiſes and Covenants with God and man.</hi> For this is that ſin here which (added to their for<g ref="char:EOLhyphen"/>mer ſins) made them ripe for deſtruction, and for which this great deſolation, <hi>by the return</hi> of the <hi>Babyloniſh</hi> Army, came upon them.</p>
+            <p>Now from the whole Verſe, obſerve;</p>
+            <p>
+               <hi>Doctrine. Breach of Covenant is an haynous ſin, which God will by no means paſs by in his people unpuniſhed.</hi>
+            </p>
+            <p>It cauſeth,
+<note place="margin">The main Do<g ref="char:EOLhyphen"/>ctrine from the whole verſe.</note> as here, irrevocable judgments: Where I ſpeak not of <hi>unlawful or ſinful</hi> Covenants, which are better broken by repentance, and pardon begged of God for that raſhneſs which was in the making of them: Such was that of thoſe <hi>Iews,</hi> who, more then fourty of them,
+<note place="margin">Breach of Co<g ref="char:EOLhyphen"/>venant puni<g ref="char:EOLhyphen"/>ſhed by the ſword.</note> banded together — <hi>to kill Paul,</hi> Acts 23.12. But of <hi>lawful</hi> Covenants, whether only</p>
+            <p n="1">1. <hi>Civil,</hi> Whereby men ingage themſelves one to another in civil reſpects only; as when <hi>Abimelech</hi> and <hi>Abraham</hi> covenanted and ſware one to another at <hi>Beerſheba,</hi>
+               <note place="margin">Covenants di<g ref="char:EOLhyphen"/>ſtinguiſhed.</note> or <hi>the well of the oath, Gen.</hi> 21.27. — 30.31. And when <hi>Iacob</hi> and <hi>Laban</hi> covenanted at <hi>Galeed, Gen.</hi> 31.44. — 52.</p>
+            <p>Or 2. <hi>Religious,</hi> To yeeld obedience to God according to his
+<pb n="19" facs="tcp:117623:10"/>will, or to ſeek God; as when <hi>Iehojada made a Covenant between him, and between all the People, and between the King, that they ſhould be the Lords People,</hi> 2 Chron. 23.16. And ſo when <hi>Ezra</hi> made a Covenant for himſelf, and the people, with God, to put a<g ref="char:EOLhyphen"/>way all <hi>their ſtrange wives, &amp;c. Ezra.</hi> 10.3. See alſo <hi>Nehem.</hi> 9.38. &amp; 10.1. &amp;c. 29.30. &amp;c.</p>
+            <p>Or 3. <hi>Mixt,</hi> Such was that alſo of <hi>Iehoſaphat,</hi> which was made, not only <hi>between the Lord, the King and people,</hi> — but be<g ref="char:EOLhyphen"/>tween <hi>the King alſo, and the people,</hi> 2 <hi>Kings</hi> 11.17. And of this nature is <hi>our national Covenant.</hi>
+            </p>
+            <p>Now God will ſeverely puniſh the breach of all theſe ſorts of Covenants;
+<note place="margin">And God pu<g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heth breach of Covenants of all ſorts.</note> for ſo he hath done.</p>
+            <p n="1">1. For <hi>Civil,</hi> As that made <hi>Ezek.</hi> 17. between the <hi>King of Iudah,</hi> and the <hi>King of Babylon,</hi>
+               <note n="1" place="margin">Civil.</note> againſt whom (after he had taken an oath) <hi>he rebelled, in ſending his Embaſſadors into</hi> Egypt, <hi>that they might give him horſes, and much people.</hi> But what ſaith God? <hi>Shall he proſper? Shall he eſcape that doth ſuch things?
+<note place="margin">Ezek. 17, 15, 16, 19.</note> Or ſhall he break the Covenant and be delivered? As I live, ſaith the Lord God, ſurely in the place where the King dwelleth that made him King, whoſe oath he deſpiſed, and whoſe Covenant he brake, even with him, in the midſt of Babylon, he ſhall dye, &amp;c.</hi> See alſo 2 <hi>Sam.</hi> 21.1, 2, 3. &amp;c. with <hi>Ioſh.</hi> 9.15.</p>
+            <p n="2">2. For <hi>Religious</hi> Covenants. Thus <hi>Iſai.</hi> 24.1, 2.
+<note n="2" place="margin">Religious.</note> the Lord threat<g ref="char:EOLhyphen"/>neth doleful judgments to fall upon the Land: <hi>Behold, the Lord maketh the earth empty, and maketh it wast, and turneth it upſide down, and ſcattereth abroad the inhabitants there<g ref="char:EOLhyphen"/>of, &amp;c. The Land ſhall be utterly emptied, and utterly ſpoil<g ref="char:EOLhyphen"/>ed, &amp;c.</hi> But why is all this?
+<note place="margin">Iſai. 24, 1, 2, 3, 4, 5, 6.</note> 
+               <hi>Becauſe they have tranſgreſſed the Laws, changed the Ordinance, broken the everlaſting Covenant; therefore hath the curſe devoured the earth, and they that dwel therein are deſolate.</hi> So the Army of <hi>Iſrael</hi> could not proſper at <hi>Aj,</hi> nor ſtand before their enemies, though Gods promiſe was to be with them; <hi>Why?
+<note place="margin">Joſh. 7, 11, 12.</note> Becauſe Iſrael (ſaith the Lord) hath ſinned, and they have alſo tranſgreſſed my Covenant;</hi> — and yet it was but one man <hi>Achan</hi> (with his family) that had taken of the accurſed thing, and ſtollen, — who accordingly were deſtroy<g ref="char:EOLhyphen"/>ed. So for <hi>profanation of the Sacraments,</hi> (ſigns of the Cove<g ref="char:EOLhyphen"/>nant) and of holy things: ſee how God takes ſuch wicked ones
+<pb n="20" facs="tcp:117623:11"/>up;
+<note place="margin">Pſal. 50.16.17.</note> 
+               <hi>What haſt thou to do to declare my ſtatutes, or that thou ſhouldeſt take my Covenant in thy mouth? &amp;c.</hi>
+            </p>
+            <p n="3">3. So for <hi>Mixt</hi> Covenants.
+<note n="3" place="margin">Mixt.</note> In <hi>King Aſa</hi> his days, they bound themſelves by a renewed Covenant to God, and one to another, that they would <hi>ſeek the Lord God of Iſrael,</hi> and ſo by mutual covenanting (to deſtroy Idolatry, and the groves and ſuperſtitious worſhip) they bound themſelves, and ſubmitted to the <hi>penalty of death,</hi> 2 <hi>Chron.</hi> 15.13, 14. &amp;c. So acknowledging, that not only Idolatry, and breach of mens general Covenant with God deſer<g ref="char:EOLhyphen"/>ved death; but that they, by vertue of this their covenanting one with another (which they did to ſhew their thankfulneſs to God for that late great victory) were bound, without any pity or par<g ref="char:EOLhyphen"/>tiality, to ſee Gods Will and Law, <hi>'Deut.</hi> 13.1, 2, 3, 4. &amp;c. in ſuch caſe, executed and fulfilled.</p>
+            <p>But <hi>eſpecially,</hi> the Inſtance in my Text is remarkable: <hi>King Zedekiah</hi> had <hi>made a Covenant with all the people which were at Jeruſalem, to proclaim liberty unto them; as</hi> Jer. 34.9, 10. <hi>But afterwards they turned, and cauſed the ſervants and handmaids whom they had let go free, to return, and brought them into ſub<g ref="char:EOLhyphen"/>jection, &amp;c.</hi> verſe 11. <hi>Therefore, thus ſaith the Lord,</hi> — verſe 18. <hi>I will give the men that have tranſgreſſed my Covenant, which have not performed the words of the Covenant which they had made before me, — even the Princes of</hi> Judah <hi>and of</hi> Jeru<g ref="char:EOLhyphen"/>ſalem, <hi>the</hi> Eunuchs <hi>and the Prieſts, and all the people of the Land, which paſſed between the parts of the Calf; I will give them in<g ref="char:EOLhyphen"/>to the hand of their enemies, and of them that ſeek their life:</hi> — And then, as in my Text, <hi>I will command and cauſe them to return to this City, and they ſhall fight againſt it, and take it, and burn it with fire, &amp;c.</hi> Where we may obſerve, God, <hi>verſe</hi> 18. cals that <hi>his Covenant,</hi> which the King and Princes had made with their ſervants <hi>before him,</hi> i. in his preſence, taking him to witneſs; ſo when men Covenant one with another, by <hi>oath</hi> eſpe<g ref="char:EOLhyphen"/>cially, and ſacrifice, that Covenant is called <hi>Gods, Covenant;</hi> ſo that breaking it, we are truly ſaid, yea, and by God taken to <hi>br<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k with him.</hi> Where we muſt know, that a Covenant may be ſaid to be <hi>Gods Covenant, two ways;</hi> either when men immediatly bind themſelves unto God,
+<note place="margin">Per modum Obligationis.</note> and when he is the party covenanted with<g ref="char:EOLhyphen"/>all, as in ſuch Covenants as are meerly Religious and Sacramental.
+<pb n="21" facs="tcp:117623:11"/>Or when men bind themſelves one to another, according to God,
+<note place="margin">Per modum Atteſtationis.</note> though to an Heathen and <hi>Infidel,</hi> yet in the name of God; and, as in his ſight, he being taken and called to witneſs, to judg and to avenge the breach of it. This God accounts <hi>his Covenant.</hi>
+               <note place="margin">Reaſons hereof.</note>
+            </p>
+            <p>Now <hi>why</hi> or <hi>whence</hi> is it that the Breach of Vow, Oath and Covenant is ſo hateful, hainous, and ſo plagued and puniſhed? I <hi>anſwer: firſt,</hi>
+               <note n="1" place="margin">By our breach with God, we ſet God looſe from his pro<g ref="char:EOLhyphen"/>miſe of prote<g ref="char:EOLhyphen"/>ction, which is conditional.</note> (eſpecially if we ſpeak of the former ſort of Covenants, meerly religious) we can have no ſecurity from his wrath, or hope of freedom from any evil by vertue of any Pro<g ref="char:EOLhyphen"/>miſe or Covenant of God, further then we keep Covenant with God, ſeeing his promiſes as they are propounded <hi>generally,</hi> ſo <hi>conditionally<g ref="char:punc">▪</g>
+               </hi> and howſoever, in <hi>regard of the Elect,</hi> the pro<g ref="char:EOLhyphen"/>miſes of God are ſure, though conditionally propounded, yet as concerning them, his promiſe is more <hi>abſolute,</hi> yea ſuch as un<g ref="char:EOLhyphen"/>dertakes on their behalf for the conditions too, (as elſwhere in a
+<note n="*" place="margin">Gods cortain performance of his conditi<g ref="char:EOLhyphen"/>onal promiſes as concerning the elect.</note> Treatiſe publiſhed on that argument is fully ſhewed;) yet ſeeing they are not (uſually) made good to any but in a conditionall way, Gods performance on his part cannot be expected, unleſs there be a performance on our part, 2 <hi>Chron.</hi> 15.2. —<hi>if ye for<g ref="char:EOLhyphen"/>ſake him, he will forſake you.</hi> Indeed, whileſt we keep Cove<g ref="char:EOLhyphen"/>nant with him, he is pleaſed to bind himſelf, ſo faſt to us, that he gives us power (in a manner) <hi>to command him,</hi> to grant or do what we would have him to do for us, according to his Word. Thus ſaith the Lord, —<hi>Ask of me things to come concerning my ſons, and concerning the work of mine hands command ye me.</hi>
+               <note place="margin">Iſai, 45, 11</note> And hereupon thus ſpake <hi>Joſhua</hi> to the Lord, —<hi>and he ſaid in the ſight of Iſrael, Sun ſtand thou ſtill upon Gibeon, and thou Moon in the valley of Ajalon. And the Sun ſtood ſtill,
+<note place="margin">Joſh. 10, 12, 13</note> and the Moon ſtayed, until the people had avenged themſelves upon their enemies.</hi> It was not thus, as we heard, when the people, at the ſiege of <hi>Aj</hi> tranſgreſſed Gods Covenant, where God fought, not for, but againſt <hi>Iſrael.</hi> In like manner where people (having broken Covenant and tranſgreſſed) do <hi>renew</hi> Covenant with God, promiſe and truly intend to depend wholly on God in their ſtraits for protection and ſafety, there they have God, (who otherwiſe was ready to deſtroy them) renewing his pro<g ref="char:EOLhyphen"/>miſe to them of protection, according to that, <hi>Hoſea</hi> 14.1, 2, 3, 4. And ſo Gods people, whileſt they keep or otherwiſe renew Co<g ref="char:EOLhyphen"/>venant
+<pb n="22" facs="tcp:117623:12"/>with God, they (as it were) hold Gods hands, as <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> did, and keep off wrath from themſelves and others: (for ſo it pleaſeth him to bind himſelf to his people:) but when they break Covenant with him, and continue in ſo doing, they ſet him <hi>free,</hi> and let him looſe, and make Gods Covenant voyd on his part, as for any performance they, in their tranſgreſſion and impenitency, can expect from him by vertue of any promiſe of his unto them, which was only <hi>conditional;</hi> And ſo they muſt accordingly look to <hi>know his breach of promiſe</hi> (as he is pleaſed to ſpeak) or the altering of his purpoſe,
+<note place="margin">Numb. 14.34.</note> or his breaking off with them, as the <hi>Iſraelites</hi> in the wilderneſs did find it, <hi>whoſe car<g ref="char:EOLhyphen"/>caſſes accordingly fell in the wilderneſs.</hi> In a word, the breach of Covenant with God, or enmity againſt his Covenant or againſt the people of his Covenant, procures the Sword, which is ſent to <hi>avenge the quarrel of the Covenant.</hi>
+               <note place="margin">Lev. 26.25.</note>
+            </p>
+            <p>
+               <hi>Another Reaſon,</hi>
+               <note n="2" place="margin">Gods name is thereby pol<g ref="char:EOLhyphen"/>luted.</note> why breach of Gods Covenant and our own is ſo ſeverely puniſhed, is, <hi>becauſe God thereby is the more diſho<g ref="char:EOLhyphen"/>nored:</hi> Every ſin is a diſhonor and diſobedience to God, but this <hi>a pollution of his name,</hi> though it be of a Covenant meerly <hi>civil,</hi>
+               <note place="margin">Such Cove<g ref="char:EOLhyphen"/>nants though made with Infidels being Gods Cove<g ref="char:EOLhyphen"/>nants.</note> made with Infidels, or <hi>mixt,</hi> being made before him or in his ſight and preſence, as witneſs thereunto. Hence, as we have heard, God calls ſuch a Covenant <hi>his Covenant;</hi> ſo King <hi>Iehoia<g ref="char:EOLhyphen"/>kims Covenant</hi> with the King of <hi>Babylon,</hi> is called; and there<g ref="char:EOLhyphen"/>fore is ſo ſeverely threatned and puniſhed: for, <hi>Therefore thus ſaith the Lord God, As I live, ſurely mine Oath that he hath despiſed, and my Covenant that he hath broken, even it will I recompence upon his own head,</hi> Ezek. 17.19. and Verſe 20. —<hi>I will bring him to Babylon, and will plead with him there for his treſpaſs that he hath treſpaſſed againſt me:</hi> and yet it was againſt the King of <hi>Babylon that he rebelled,</hi> whoſe <hi>Covenant he brake, and whoſe Oath he despiſed,</hi> as Verſ. 13, 14-16. What Cove<g ref="char:EOLhyphen"/>nant we make with others in Gods name (as when we ſwear it muſt be only in the name of our God, its part of his honor) God accounts <hi>his:</hi> and ſo the diſhonor is <hi>his</hi> alſo, when Covenants with men are broken: yea it is the greater becauſe his name is thereby polluted. So the Lord ſpeaks here in this inſtance of King <hi>Zedekiah,
+<note place="margin">Verſ. 15, 16, 17, 18.</note> —ye had made a Covenant before me in the houſe which is called by my name. But ye turned and polluted my name,
+<pb n="23" facs="tcp:117623:12"/>&amp;c. Therefore I will give the men that have tranſgreſſed my Covenant—into the hand of their enemies, &amp;c.</hi> This is becauſe Gods name comes thus to be blaſphemed, evil thought and evil ſpoken of, not only by the Heathen, but by the prophaner ſort of common profeſſors, eſpecially if Covenants made in the name of God, be not kept with them. And therefore doth God, in zeal to his own honor, which is ingaged in all ſuch Covenants, puniſh with greater ſeverity the breach thereof. This circumſtance, that ſuch whether only civil or mixt Covenants are Gods, brings a grea<g ref="char:EOLhyphen"/>ter guilt upon the breach thereof. The marriage contract is <hi>Gods</hi> Covenant and is therefore puniſhed by Gods Law with death, not only of the body, but eternal.
+<note place="margin">Prov. 2.17, 18</note> 
+               <hi>The ſtrange woman which for<g ref="char:EOLhyphen"/>ſaketh the guide of her youth, and forgetteth the Covenant of her God,</hi> it is ſaid, <hi>her houſe enclineth unto death, and her paths unto the dead.
+<note place="margin">2 Sam. 5, 11 1 Kings 5, 1, 9 &amp; 9, 13.</note> Davis</hi> and <hi>Solomon</hi> made a civil Covenant with <hi>Hiram</hi> King of <hi>Tyrus,</hi> and the breach of it is puniſhed in <hi>Tyrus: For three trangreſſions of Tyrus and for four I wil not turn away the puniſhment thereof; becauſe they delivered up the whole captivity to Edom, and remembred not the brotherly Covenant, or the Cove<g ref="char:EOLhyphen"/>nant of brethren: But I will ſend a fire on the wall of Tyrus, which ſhall devour the pallaces thereof,</hi> Amos 1.9, 10. I would conclude this reaſon, by remembring you of that notable and fa<g ref="char:EOLhyphen"/>mous inſtance of latter times, (mentioned by ſo many, yet minded by a few only) in that famous battel of <hi>Varna,</hi> fought <hi>Novemb.</hi> 10.1444. between <hi>Amurath</hi> the ſixth, and <hi>
+                  <g ref="char:V">Ʋ</g>ladiſlaus King of Hungary,</hi> who having made a League or Covenant of peace with the Emperor of the <hi>Turks,</hi> was afterwards perſwaded by <hi>Iulian</hi> the Popes Legat to violate the League, and to make war upon the <hi>Turk,</hi> who fared accordingly in the end. When <hi>Amurath</hi> was almoſt put to the worſt, he plucks out of his boſom the writing which contained the late League, and holding it aloft in his hand, his eyes lift up to heaven, he utters theſe words; <q>
+                  <hi>Behold thou crucified Chriſt, this is the League thy people in thy name made with me, and now have violated without a cauſe:</hi> If thou be a God, as they ſay thou art, ſhew thy power, and pour out thy wrath upon this perjured people.</q> Hereupon (though this <hi>Turk</hi> in thus ſpeaking blaſphemed the name of Chriſt,) yet Chriſt to vindicate his own honor, will do a <hi>Turk</hi> right and juſtice; the
+<pb n="24" facs="tcp:117623:13"/>battel turns, the perfidious Chriſtian King and many of his chief Commanders ſlain, the whole Army routed, great part of that Country loſt. Lo, the fruit of the violation of Faith and Cove<g ref="char:EOLhyphen"/>nant for politick advantage, &amp;c. and lo, how zealous Chriſt is of his name, that it be not blaſphemed by the Heathen or any other.</p>
+            <p>The <hi>third and laſt Reaſon,</hi>
+               <note n="3" place="margin">Thereby moe bonds are broken.</note> is, becauſe the breach, or not obſer<g ref="char:EOLhyphen"/>ving the Covenant of our God is a ſin againſt moe bonds, not only againſt the bond of nature, of Gods mercies and benefits, and of preſervation and redemption both temporal and ſpiritual, which tye and bind more naturally, by a natural kind of obligati<g ref="char:EOLhyphen"/>on: but againſt a more <hi>voluntary and deliberate</hi> Act of a mans own doing and yeilding to: ſo that, though God ſeem to paſs by other ſins for a long while,
+<note place="margin">And therfore though he paſs by other ſinns, yet he wil not paſs by this.</note> yet he wil not paſs by this. Thus God did bear with many provocations and murmurings of his people, coming out of <hi>Aegypt, five</hi> at leaſt, or <hi>ſix;</hi> But when once they, but ſo much as, yeilded to the terms of the Covenant, they were then,
+<note place="margin">A large <hi>in<g ref="char:EOLhyphen"/>ſtance.</hi>
+               </note> and ever after ſenſibly puniſhed, till at length when, (in all) they had provoked him <hi>ten times,</hi> their judgement became irrevocable, ſo <hi>that he ſware in his wrath, they ſhould never enter into his reſt,</hi>
+               <note place="margin">Exod. 14.11, 12, 13.</note> Numb. 14.21, 22, 23. They <hi>murmured,</hi> 1. <hi>At the red ſea,</hi> yet not a word of reproof, only <hi>Moſes</hi> comforted them, ſaying, <hi>fear not, ſtand ſtil, ſee the ſalvation of the Lord, &amp;c.</hi> 2. <hi>At Marah,</hi>
+               <note place="margin">&amp; 15.24, 25, 26.</note> where the <hi>waters were bitter;</hi> but ſo was not God: <hi>The Lord ſhewed Moſes a tree, which, caſt in, made the waters ſweet.</hi> 3. <hi>At Sin,</hi> where they wanted bread, &amp;c. <hi>would God we had dyed in Aegypt, &amp;c.</hi> But the Lord ſaid, <hi>I will rain bread from heaven for you,
+<note place="margin">&amp; 16.2, 3, 4, 5</note> &amp;c.</hi> 4. They tempted God twice about Manna: 1. In <hi>reſerving it</hi> till the morning, contrary to Gods command:
+<note place="margin">&amp; verſ. 19, 20</note> only <hi>Moſes</hi> was wroth with them. 2. In ſeeking it <hi>on the Sabbath,</hi>
+               <note place="margin">&amp; v. 26, 27, 28 29.</note> when God told them there ſhould be none: where they eſcaped only with a <hi>gentle chiding</hi> from the Lord. 6. At <hi>Rephidim,</hi> for want of water; where, as they chide <hi>Moſes, Moſes</hi> alſo chides them.
+<note place="margin">Exod. 17.1, 2, 3, &amp;c.</note> But when once the Law was propoun<g ref="char:EOLhyphen"/>ded to them, and they had yeelded to the terms of the Covenant, ſaying,
+<note place="margin">Exod. 19. 5.8</note> 
+               <hi>All that the Lord hath ſpoken we wil do,</hi> (though alas they wanted power &amp; an heart ſo to do;) and when once at the Mount they, in <hi>Moſes</hi> abſence, (who was to bring them the Covenant
+<pb n="25" facs="tcp:117623:13"/>in writing) had made the golden calf, the Lord takes ſpecial notice of it, owns them not for <hi>his people,</hi> ſaying to <hi>Moſes, Thy peo<g ref="char:EOLhyphen"/>ple—have corrupted themſelves</hi>—they ſo uncovenanted them<g ref="char:EOLhyphen"/>ſelves,
+<note place="margin">Exod. 32.7, 8, 10, 11, 14. &amp; v. 27, 28, 35</note> and God takes notice how <hi>quickly they had turned aſide out of the way which he commanded:</hi> Hereupon threatens to con<g ref="char:EOLhyphen"/>ſume them: And though ſeemed to ſpare them a while at <hi>Moſes</hi> requeſt, yet <hi>Moſes,</hi> at Gods command, <hi>cauſeth the idolaters (a<g ref="char:EOLhyphen"/>bout three thouſand men) to be ſlain,—and the Lord plagued the people</hi>— This was their <hi>ſeventh</hi> provocation: This and their after ſins brought all their former provocations into remembrance, being looked on as breaches alſo of Covenant: ſo that <hi>eighthly,</hi> when at <hi>Taberah</hi> they complained upon wearineſs,
+<note place="margin">Numb. 11.1.</note> 
+               <hi>The Lords anger was kindled, and the fire of the Lord burnt among them in the uttermoſt parts of the camp:</hi>
+               <note place="margin">&amp; v. 4, 5, 6, 33.</note> and when <hi>ninthly</hi> they fell a luſting for fleſh and loathed Manna at <hi>Kibroth-hattaavah,
+<note place="margin">Pſa. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6 15.</note> quails were given them in wrath, leanneſs was ſent into their ſouls; and while the fleſh was yet between their teeth, ere it was chewed, the wrath of the Lord was kindled againſt the people,
+<note place="margin">Pſa 78.30, 31</note> and the Lord ſmote the people with a very great plague. Laſtly,</hi> when in <hi>Pharan</hi> they murmured upon the news of the ſpies, and belee<g ref="char:EOLhyphen"/>ved not God, but rebelled, and would needs return to <hi>Aegypt,</hi> diſtruſting both his power and promiſe, which made the <hi>tenth</hi> provocation, and was an high breach of their Covenant with God, being diſobedience, contrary to their promiſe, and <hi>diſtruſt,
+<note place="margin">Deut. 1.26-32</note> for in that thing they did not beleeve their God.</hi> The Lord came to a peremptory reſolution, even to ſwear, that becauſe they had now tempted him theſe <hi>ten times—ſurely,</hi> ſaith he, <hi>they ſhall not ſee the Land—neither ſhall any of them that provoked me ſee it, ſave</hi> Caleb <hi>and</hi> Joſhua.
+<note place="margin">Numb. 14.1, 2, &amp;c 21, 23.</note> Where we ſee that when men in ſpe<g ref="char:EOLhyphen"/>cial Covenant with God perſiſt to provoke him, every new ſin is thence aggravated, and old ſins called to remembrance, <note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe. fourfold. 1. To <hi>juſtifie God</hi> in his judgments. Pſa 145 17. Lev. 26 25. A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion to us of this Nation.</note> and ſo at length, ſooner or later, certain and irrevocable ſentence paſſeth.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. This may ſerve <hi>to juſtifie God</hi> in all that hath befaln us, or which may or ſhall befal us hereafter, teaching us to ſay, <hi>The Lord is righteous in all his ways, and holy in all his works:</hi> See<g ref="char:EOLhyphen"/>ing he doth <hi>but thus avenge the quarrel of his Covenant,</hi> broken by all ſorts. 1. Our <hi>general</hi> Covenant made with God in Bap<g ref="char:EOLhyphen"/>tiſm requires of us all, <hi>true faith,</hi> and the obedience of faith, <hi>re<g ref="char:EOLhyphen"/>pentance,
+<pb n="26" facs="tcp:117623:14"/>mortification,</hi> a forſaking of the <hi>devil</hi> and all his <hi>works;</hi> the <hi>world</hi> in <hi>the pomp and glory and covetous deſires of it;</hi> the <hi>fleſh</hi> in all the <hi>carnal deſires</hi> of it.
+<note place="margin">Who keep not Covenant with him.</note> And men generally would needs be admitted Chriſtians under the ſignal of the Croſs; bind<g ref="char:EOLhyphen"/>ing themſelves <hi>manfully to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight under Chriſts banner againſt all theſe Enemies, and to continue Chriſts faithful ſoldiers and ſer<g ref="char:EOLhyphen"/>vants.</hi>
+               <note place="margin">F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther General.</note> Now how we have kept this Covenant in this our na<g ref="char:EOLhyphen"/>tion generally, whether better then thoſe hypocritical and carnal worſhippers who had made a Covenant with God by ſacrifice, a<g ref="char:EOLhyphen"/>gainſt whom God himſelf became judg, teſtifying againſt them for their hypocriſie in worſhip, for their diſobedience in practiſe, and for prophaning his Covenant, and caſting his words behind them; the whole world, that knoweth how it hath been with us, eſpecially of latter years, and our own conſciences can eaſily wit<g ref="char:EOLhyphen"/>neſs and judg. How light have we made of Chriſt the Lord who was given us by a Covenant? of his faithful Miniſters, the meſ<g ref="char:EOLhyphen"/>ſengers of his Covenant, and of their m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſage and miniſtry, whom we ſilenced,
+<note place="margin">As doing con<g ref="char:EOLhyphen"/>trary to the practiſe of the good <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of <hi>Iſrael.</hi> 2 Chro. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 4.2, 3, 5 &amp; <hi>chap.</hi> 15.8, 16.</note> moleſted, baniſhed? what ſome godly Kings of <hi>Judah</hi> did by way of <hi>Reformation,</hi> when in thankfulneſs for great mercies they renewed their Covenant with him, and with one another, we were ſuch as did the quite contrary. King <hi>Aſa</hi> with his covenanting, demoliſhed Idolatry, as formerly in <hi>Judah,</hi> ſo alſo in <hi>Iſrael—yea depoſed his own mother becauſe ſhe had made an Idol.</hi> We have ſought to bring Idolatry and Popiſh ſu<g ref="char:EOLhyphen"/>perſtition into the Land again, and have given way too far to the practiſe of it by Papiſts and ſuch as were Popiſhly affected. King <hi>Aſa</hi> reſtored Gods true worſhip in both Kingdoms,
+<note place="margin">Chap. 14.4. &amp; 15.8.</note> 
+               <hi>Iſrael</hi> and <hi>Judah,</hi> renewing the altar of the Lord: We ſought to pull down and corrupt Gods true Worſhip in both Kingdoms, <hi>England</hi> and <hi>Scotland,</hi> and to rear and ſet up Idolatrous altars to a breaden God.
+<note place="margin">Ch. 15.3. with verſ. 8, 9.</note> He ſet up in <hi>Iſrael a teaching miniſtry,</hi> as other good Kings and Governors did, 2 <hi>Chron.</hi> 17.4, 6, 7, 8, 9. We have en<g ref="char:EOLhyphen"/>deavored, yea actually have pulled down and taken away many Lectures and afternoon Sermons, and ſilenced or driven away ſuch Miniſters as were moſt faithful, painful and conſtant in preaching, yea even in that regard. And was it not time for God, by ſending the ſword, <hi>to avenge the quarrel of his Covenant?</hi> Not to ſpeak of the prophaneſs of moſt mens lives contrary to
+<pb n="27" facs="tcp:117623:14"/>their Covenant in Baptiſm, as if indeed they had made a cove<g ref="char:EOLhyphen"/>nant with the <hi>devil,</hi> to do all his works inſtead of forſaking them; with the world to follow the vain pomp and glory and covetous deſires of it, and with the <hi>fleſh</hi> to be led by the carnal deſires of it? And (the ſword being come) how have men ſided, (not only <hi>Papiſts</hi> but <hi>others</hi>) in forſaking the banner of Chriſt, and fighting for Antichriſt; and under colour of fighting for <hi>Queen Eliza<g ref="char:EOLhyphen"/>beths Religion,</hi> have fought for <hi>Queen Maries Religion,</hi> and a<g ref="char:EOLhyphen"/>gainſt the true, orthodox and ſound Religion and Worſhip? Was this that which their <hi>Baptiſm</hi> under the ſign of the Croſs bound them too? Oh! Its a dangerous thing either to forſake the Co<g ref="char:EOLhyphen"/>venant of God, <hi>Ier.</hi> 22.7, 8, 9. or to <hi>oppoſe it,</hi> by fighting or be<g ref="char:EOLhyphen"/>ing againſt it, as was <hi>Antiochus Epiphanes;</hi> Dan. 11.28-30.</p>
+            <p>And howſoever our Parliament hath given us and doth ſtil give us good hopes, of a Reformation according to Gods Word, and a bringing us back to the Covenant of our God both in mat<g ref="char:EOLhyphen"/>ter of doctrine, diſcipline and a more holy life; yet whileſt this main work of God goeth ſo ſlowly forward, whileſt diſcipline is not yet ſettled or ſo bounded as it ſhould be, and whileſt ſuch connivence, if not, (in effect) a toleration is ſuffered for men to ſpeak, hold, write, and do what they liſt, that men may make themſelves vile, and yet, (at leaſt as yet) by no law eſtabliſhed, or executed, be reſtrained or frowned upon by ſuch as ſhould reſtrain them; we have no cauſe to be ſecure, but to fear the return of the ſword out of ſome quarter of the world or other, or from within our ſelves, as formerly. God will not be dallyed withal. And if God ſo judg us, as he did old <hi>Eli</hi> and his houſe,
+<note place="margin">1 Sam. 3 13, 14</note> and that our ſins be not purged with ſacrifice or offering, and that our monethly Humiliations prove rather (as they are kept) provocations, we have none to blame but our ſelves: Gods ways and judgments will ever appear to be righteous.</p>
+            <p n="2">2. And if we look to <hi>particular Vows</hi> and Covenants dayly broken by all ſorts, muſt not all juſtifie God,
+<note place="margin">2. Particular.</note> as holy and righte<g ref="char:EOLhyphen"/>ous in ſuch evils as have befaln them, or may yet befal them? Oh what vows and promiſes do men make to God in time of their troubles, fears and dangers, and yet how ſoon broken and forgot<g ref="char:EOLhyphen"/>ten when theſe are over? What proteſtations, imprecations, ta<g ref="char:EOLhyphen"/>king heaven and earth to witneſs our ſincere intentions, and yet
+<pb n="28" facs="tcp:117623:15"/>how little conſcience made of performance? Are not men yet ſenſible of theſe things? If God make ſuch men yet to ſmart, muſt he not be acknowledged juſt? What cauſe even the better party in the Land have to be humbled, and to fear ſharper rods, upon this ground of careleſs keeping our late Covenant and nati<g ref="char:EOLhyphen"/>onal League, we ſhal enquire into and examine anon.</p>
+            <p n="2">2. In the mean time,
+<note place="margin">2. To be excited and incoura<g ref="char:EOLhyphen"/>ged to keep Covenant with God. 2 Ch<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 13 9, 10, 11, 12.</note> it would be much to the abatement of our fears, and to our incouragement and hopes of good ſucceſs in all our undertakings, eſpecially when we have to deal with a Ma<g ref="char:EOLhyphen"/>lignant party, (and theſe are ſuch as we have moſt cauſe to fear) if we could truly reaſon as King <hi>Abijah</hi> againſt King <hi>Ieroboam,</hi> making War with him: —<hi>have not ye caſt out the Prieſts of the Lord the ſons of Aaron and the Levites, and have made you Prieſts after the manner of the Nations of other Lands—But as for us the Lord is our God, and we have not forſaken him, and the Prieſts Which miniſter unto the Lord are the ſons of Aaron</hi> (neither <hi>Baals</hi> Prieſts, nor Prieſts of their own making;) —<hi>We keep the charge of the Lord our God, but ye have forſaken him— And behold God himſelf is with us for our Captain,
+<note place="margin">&amp; ver. 17, 18.</note> —<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight ye not againſt the Lord God of your fathers, for you ſhall not prosper.</hi> Neither did they proſper—<hi>there fell down ſlain of Iſrael five hundred thouſand choſen men,
+<note place="margin">The bleſſings hereof.</note> &amp;c.</hi> and <hi>the children of Iudah prevailed, becauſe they relied upon the Lord God of their fathers,</hi> and kept the Covenant made with their fathers. Howſoever, God would be ſome way or other with us, if we were with him, 2 <hi>Chron.</hi> 15.2. At leaſt, whatſoever our caſe ſhould be, we might hence be comforted in our troubles, and in like integrity, <hi>ſay and appeal</hi> to God,
+<note place="margin">Pſa. 44 17, 18</note> as the Church, <hi>Pſal.</hi> 44—<hi>All this is come upon us; yet have we not forgotten thee, neither have we dealt falſly in thy Covenant: our heart is not turned back, nei<g ref="char:EOLhyphen"/>ther have our ſteps</hi> (or goings) <hi>declined from thy way.</hi>
+            </p>
+            <p n="3">3. Be we then <hi>exhorted,</hi>
+               <note place="margin">3 <hi>uſe.</hi> Exhortation, to renew Co<g ref="char:EOLhyphen"/>venant with God; as others have done upon like grounds.</note> if not to <hi>enter,</hi> yet to <hi>keep</hi> or renew our Covenants made with God, and with one another in the pre<g ref="char:EOLhyphen"/>ſence and ſight of God. We have as good cauſe thus to do as ever nation had, and the ſame or like occaſions. What moved King <hi>Aſa</hi> with <hi>Iudah,</hi> and many of <hi>Iſrael,</hi> ſolemnly to Covenant with God, and one with another, and that upon the forfeiture of life, if any kept it not?</p>
+            <p n="1">
+               <pb n="29" facs="tcp:117623:15"/>
+1. Was it not a <hi>mercy, and a great deliverance?</hi> 2 <hi>Chron.</hi> 15.
+<note place="margin">2 Chron. 15.10, 11, 12.</note> for which thus they would ſhew their thankfulneſs, &amp; bind them<g ref="char:EOLhyphen"/>ſelves to a through Reformation?
+<note place="margin">1. By occaſion of mercies and great deliver<g ref="char:EOLhyphen"/>ances,</note> Now comes <hi>England</hi> behind in mercies of this nature, or doth it not go before all other Nations in remarkable deliverances? <hi>Aſa</hi> was delivered from a mighty Army of the <hi>Ethiopians,</hi> and <hi>Iſrael</hi> from <hi>Aegypt,</hi> for which he renews, and they are called to enter into Covenant with the Lord, and urged to keep it, and that becauſe of ſuch deliverance and mercies; as <hi>Exod.</hi> 19.1, 2. &amp;c. 5. &amp;c. &amp; 20.2.
+<note place="margin">Already re<g ref="char:EOLhyphen"/>ceived.</note> 
+               <hi>I am the Lord thy God which have brought thee out of the Land of</hi> Aegypt. <hi>Thou ſhalt have no other Gods before me, &amp;c.</hi>
+            </p>
+            <p>The remembrance of which mercy is urged by <hi>Ioſhuah,</hi> to make them renew, and firmly to keep <hi>Covenant with God, Ioſh.</hi> 24.2, 3.-6.7. &amp;c. 14.15.-25.26, Now our deliverances have been from ſpiritual enemies alſo, as from <hi>ſpiritual Aegypt,</hi> as from the tyranny of <hi>Antichrist,</hi> that ſpiritual <hi>Pharaoh;</hi> and from <hi>ſpiritual Babylon,</hi> and from <hi>Popery,</hi> by a child, <hi>King Edward,</hi> and a wo<g ref="char:EOLhyphen"/>man, <hi>Queen Elizabeth;</hi> which, when <hi>Iudah</hi> was delivered tem<g ref="char:EOLhyphen"/>porally, made them reſolve, ſaying, <hi>Come let us joyn our ſelves to the Lord in a perpetuall Covenant, &amp;c. Iſai.</hi> 50.5. Since we have been miraculouſly delivered, both from ſpiritual and bodily bon<g ref="char:EOLhyphen"/>dage, as from the <hi>Popiſh, Spaniſh Navy,</hi> in 1588. from the <hi>Popiſh</hi> powder plot, <hi>Anno</hi> 1605, and eſpecially from late deſigns of the <hi>Popiſh</hi> and <hi>Malignant</hi> party, and for the diſcovery and preventi<g ref="char:EOLhyphen"/>on of plots againſt Parliament and City, tending to the utter ſub<g ref="char:EOLhyphen"/>verſion of Religion, and of our Liberties, which occaſioned the <hi>National Covenant</hi> between <hi>England</hi> and <hi>Scotland,</hi> and their <q>joyning in Arms for the Vindication and Defence of their Re<g ref="char:EOLhyphen"/>ligion, Liberties and Laws, againſt the <hi>Popiſh, Prelatical</hi> and <hi>Malignant</hi> party,</q> as in their Declaration they have publiſhed: Beſides many (no leſs then an hundred) ſucceſſes, deliverances or victories obtained one after another without interruption, till the power of the Adverſary was wholly broken; in remembrance whereof, have we not as much cauſe as ever any had to make, keep and renew Covenant with God, and among our ſelves? Eſpecially, if withall we conſider other <hi>hoped mercies,</hi> and the benefits of keeping our Covenant firm with God, and with our neighbour-Kingdoms; for thus we become <hi>ſtrong,</hi> yea <hi>invincible;</hi> God and
+<pb n="30" facs="tcp:117623:16"/>good men being in league with us, we ſhal in the end, at leaſt, be the more prevalent party; ſuch a cord is not eaſily broken. Otherwiſe, being divided from God by breach of Covenant made with him, or in his name,
+<note place="margin">Other good redounding hence.</note> by unbelief and impenitency; and among our ſelves by Faction, Schiſms &amp;c. we ſhall ſurely in the end fall. Thus alſo the unſound are diſcovered, and we know our enemies, at leaſt, whom to ſuſpect and to put no truſt in: Otherwiſe, inviſible ene<g ref="char:EOLhyphen"/>mies are moſt dangerous. When once the Lord cauſeth us to paſs under the Rod, and <hi>brings us into the bond of the Covenant, then,</hi> ſaith he,
+<note place="margin">Ez<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k. 20, 37, 38.</note> 
+               <hi>I will purge out from among you the Rebels, &amp; them that tranſgreſs againſt me.</hi> Yea, the beſt come thus to be more purged, at leaſt, to walk more cloſely with God in all good conſcience of our duty: whereas, till we bind or take our ſelves bound faſt to God by Covenant, whether made directly with him as a party, or with others in him as a witneſs, or both, we walk more looſly and careleſly, ready to break with God and man upon ſmall occa<g ref="char:EOLhyphen"/>ſions: As one being with a Maſter upon tryal, and before he be bound to his Trade by Indenture, is re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy to break away without fear of any penalty. I wiſh theſe our looſe times made not this good: we ſhould not then play faſt and looſe, as we do, both with God and man.</p>
+            <p n="2">2. <hi>Another ground</hi> or cauſe of covenanting with God,
+<note n="2" place="margin">Former cor<g ref="char:EOLhyphen"/>ruptions to be covenanted againſt.</note> and of keeping it, we find to be <hi>when a land or people hath been polluted with Idolatry and Superstition,</hi> and hath been kept in ignorance of the true God, his pure Worſhip, his Laws and Word, in a law<g ref="char:EOLhyphen"/>leſs liberty of ſinning, tranſgreſſing his Sabbaths, &amp;c. For which ſee 2 <hi>Chron.</hi> 15.3.-8.-16. &amp; <hi>Nehem.</hi> 9.34, 35.-38. with <hi>cap.</hi> 10.29, 30, 31. &amp;c. <hi>Ezra</hi> 10.2, 3. &amp;c. 2 <hi>Chron.</hi> 23.3.-16. with 17. &amp; 29, 5, 6,-10. &amp; 34.21,-25, 31.</p>
+            <p>And have not we then like cauſe? Have we not declined, and been corrupted in doctrine, worſhip and manners, Gods Sabbath turned to play-day, Masks and Plays, inſtead of afternoon Sermons, and that even at Court? And were we not almoſt quite grown, not only <hi>ſlaviſh,</hi> but <hi>prophane, Popiſh</hi> and <hi>Superstitious?</hi> And was not this one ground, at leaſt, of our covenanting, namely, <hi>to reſtore Religion to her purity,
+<note place="margin">Preface to the Covenant.</note> and to preſerve her in it,</hi> and keep it from<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tter ruin? How can we elſe be thankful for our freedom from ſuch corruptions, but by keeping firmly our Covenant, with
+<pb n="31" facs="tcp:117623:16"/>God, of a more pure and holy worſhip, and walking with him?</p>
+            <p>
+               <hi>Lastly,</hi> Evils <hi>inflicted,</hi> and evils feared or threatned,
+<note n="3" place="margin">Evils. 1. Fel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> have oc<g ref="char:EOLhyphen"/>caſioned a new covenanting with God. 1. <hi>Inflicted,</hi> as we have ſeen, <hi>Nehem.</hi> 9.36, 37, with 38. So in <hi>King Hezekiah,</hi> 2 <hi>Chron.</hi> 29.8, 9, with 10. He exhorting the <hi>Levites,</hi> and recounting the evils which for ſin befel <hi>Judah</hi> and <hi>Ieruſalem; for Loe our Fa<g ref="char:EOLhyphen"/>thers have faln by the ſword, &amp;c, Now,</hi> ſaith he, <hi>it is in mine heart to make a Covenant with the Lord God of Iſrael, that his ſierce wrath may turn away from us.</hi> 2. So for <hi>feared wrath;
+<note n="2" place="margin">Feared.</note> King Ioſiah</hi> having read in the book of the Covenant, what wrath was due to ſuch ſins as his people were guilty of; and <hi>Huldah</hi> having Propheſied the <hi>Deſtruction of Jeruſalem,</hi>
+               <note place="margin">2 Chron. 34, 29, 30, 31.</note> though reſpited in his days, <hi>he gathered together all the Elders of</hi> Jeruſalem <hi>and</hi> Judah, <hi>Prieſts, Levites and people, and read in their ears all the words of that book, and made a Covenant before the Lord to walk after the Lord, and to keep his Commandments—with all his heart, &amp;c.</hi> This turned away wrath in his days. Now, if either of theſe have been ſufficient cauſe to renew Covenant with God, have not we had and have we not ſtill the ſame cauſe or like? He muſt needs be either a child, or of no obſervation, that remembers not what the caſe and condition of theſe three Kingdoms was a few years ago, and how we were under, not only ſenſible wrath, by plague, and other outward evils, but more inſenſible, and not ſo viſibly ob<g ref="char:EOLhyphen"/>ſerved by all, that is, in a manner, bought and ſold, and betrayed in<g ref="char:EOLhyphen"/>to the hands of <hi>Rome,</hi> by ſuch treacherous Truſtees, as who, eſpe<g ref="char:EOLhyphen"/>cially in our own Land, had the chief power delegated to them: upon the prevention of which, by Gods mercy, arms were taken up between the Kingdoms, and (after a ſhort pacification) re<g ref="char:EOLhyphen"/>newed again, which occaſioned that bloody civil War among our ſelves, that bloody Antichriſtian, Inhumane Butchery and Maſ<g ref="char:EOLhyphen"/>ſacre of the poor Proteſtants in <hi>Ireland,</hi> intended to have been followed home to our doors alſo in <hi>Scotland</hi> and <hi>England,</hi> by which means all three Kingdoms were in great hazard to have loſt, beſides lives and goods, our Religion, Laws, Liberties.
+<note place="margin">By the combi<g ref="char:EOLhyphen"/>nation of ene<g ref="char:EOLhyphen"/>mies.</note> Now the combination of all ſorts of Malignants, Papiſts, Athieſts, Prophane, cold and luke-warm Proteſtants, againſt the ſincerer ſort, and a<g ref="char:EOLhyphen"/>gainſt the Parliament, was thought ground and cauſe ſufficient to unite, and enter into a moſt ſolemn League and Covenant accord<g ref="char:EOLhyphen"/>ing
+<pb n="32" facs="tcp:117623:17"/>to God, and as in <hi>the preſence of the Almighty, with hands lift up to him,</hi> 
+               <q>for Reformation and defence of Religion, the ho<g ref="char:EOLhyphen"/>nor and happineſs of the King, the Peace and ſafety of the three Kingdoms, and to joyn with all their power in the defence of this cauſe againſt the common enemies, &amp;c.</q> After the example of divers godly Kings of <hi>Judah, &amp;c.</hi> Yea, for this our Nation, to ſeek God by ſolemn monethly, and other occaſional humliati<g ref="char:EOLhyphen"/>ons,
+<note place="margin">Our need of keeping our National Covenant.</note> by faſting and prayer. And as this our Covenanting was then ſo occaſioned, is there not ſtill the ſame cauſe to continue the uni<g ref="char:EOLhyphen"/>on, and inviolably, and in conſcience to keep cloſe to our Covenant, unleſs we will ſay our own turns now are ſerved by it, and that it is to be looked upon as an <hi>Almanack</hi> out of date; which, if we ſhould generally ſo think, to me argues, that ſuch entered into Covenant, not in a religious, but only civil and politick reſpect, which, if I have any ſence or judgment in matters of that nature, ſhould be an horrible prophanation of the holy Name of God, and a dallying with holy things, to the juſt provocation of Gods diſpleaſure (who is a party in it) againſt the violators of the ſame.</p>
+            <p>But is there indeed no further uſe of that our ſo ſolemn a Co<g ref="char:EOLhyphen"/>venant? Have we not ſtill the ſame common Enemies? Are not our dangers and cauſes of fear as great now as ever? Is not Reli<g ref="char:EOLhyphen"/>gion, for the truth, purity and power of it, in as much danger as ever? Do not ſuch as are Enemies to both, and all the King<g ref="char:EOLhyphen"/>doms, hope, if not ſeek to divide us? Are not their hopes and our fears occaſioned by the jealouſies, miſtruſts, and m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>priſions we have one of another, which, if God be not merciful, and chief counſellors on both ſides, wiſe for prevention, may break out into a new and greater flame. Howſoever, we have leſs cauſe now then ever to be ſecure, whether we look homeward or out<g ref="char:EOLhyphen"/>ward to other forraign Nations; and more cauſe to maintain the union of the Kingdoms, and to keep inviolably and ſtick cloſe to God and our Covenant, and to look upon our conſcionable keep<g ref="char:EOLhyphen"/>ing of it as a ſtrong <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edg to keep us (under God) ſafe from for<g ref="char:EOLhyphen"/>raign and domeſtique Enemies, and in the purity of our Religion and Worſhip, againſt the licentious doctrines, and practiſe of the times.</p>
+            <p>
+               <pb n="33" facs="tcp:117623:17"/>
+               <hi>Lastly,</hi> Then ſeeing our fears are not yet over,
+<note place="margin">4 <hi>Uſe.</hi> Examination.</note> but that (though in the <hi>South</hi> and <hi>Weſt</hi> of <hi>England</hi> ſtorms are calmed, and all in a manner done there) and that for the preſent, Clouds ſeem again to be gathering, eſpecially in the <hi>North,</hi>
+               <note place="margin">What cauſe we have to fear the return of the ſword.</note> from the Malignant and ill-effected party there, howſoever, the <hi>Return of the Sword,</hi> (from what coaſt ſoever) not without juſt cauſe, <hi>doubted</hi> and <hi>feared:</hi> It will concern us wiſely to conſider and enquire into the <hi>true cauſes thereof</hi> for a timely prevention; ſeeing <hi>prevention is ever better then medicine,</hi> and Repentance is but the fruit of Improvidence.</p>
+            <p>I will enquire no further then my Text gives the occaſion.
+<note place="margin">Our careleſs keeping of our ſolemn Covenant.</note> The Army of the King of <hi>Babylon</hi> was threatned to return, and indeed did return to <hi>Jeruſalem,</hi> fought againſt it, took it, and burnt it with fire, and made the Cities of <hi>Judah</hi> deſolate: But what is given as the ſpecial cauſe of it? They were long, and often threatned for many of their other ſins, but that here mentioned is, That whereas they <hi>had made a Covenant before the Lord in the houſe which is called by his name, they turned, and polluted his name,
+<note place="margin">Verſes 15, 16,-18, 22.</note> —tranſ<g ref="char:EOLhyphen"/>greſſed his Covenant, and not performed the words of the Cove<g ref="char:EOLhyphen"/>nant which they had made before him.</hi> We then ſee, and have ſeen, what an heynous ſin, and how grievouſly puniſhed is the ſin of <hi>Breach of Covenant,</hi> when made before God, and according to his Will; and when men perform not all the (very) words of it.</p>
+            <p>It was puniſhed in <hi>Judah</hi> and <hi>Jeruſalem,</hi> with the taking and burning of the City, and in <hi>Iſrael</hi> or <hi>Samaria</hi> (as partly alſo in <hi>Iudah</hi>) with the loſs of their King, or of their <hi>Kingly Govern<g ref="char:EOLhyphen"/>ment; I will cauſe to ceaſe the Kingdom of the houſe of Iſrael.</hi>
+               <note place="margin">Hoſea 1.4. &amp; 10, 3, 4.</note> —And elſewhere; <hi>now they ſhall ſay, we have no King,</hi>—and why? <hi>Becauſe we feared not the Lord; What then ſhould a King do to us? They have ſpoken words, ſwearing falſly in making a Covenant.</hi> Theſe two together made their miſery compleat, and both of them the fruit of this ſin.</p>
+            <p>Now for us of this our Nation; we might doubtleſs be much more ſecure, and in ſafer condition, both in regard of our peace, and alſo Government; if our Covenant, both with God, as we are Chriſtians, and with our neighbour Nation, as we are under one King, were on all hands,
+<note place="margin">Application.</note> both entered into without ſuch oppoſi<g ref="char:EOLhyphen"/>tion made againſt it, or more conſcionably, zealouſly and better kept by ſuch as have entered into the ſame (of both Nations.)</p>
+            <p>
+               <pb n="34" facs="tcp:117623:18"/>
+               <hi>First,</hi>
+               <note place="margin">1 To ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch as ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rends to our na<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on<g ref="char:EOLhyphen"/>al Covenant.</note> For us, who have ſo ſolemnly entered into this League, as with God, ſo one with another: If (as by a new act in this bloody Tragedy) war come up<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n our ſtage again, or that old en<g ref="char:EOLhyphen"/>mity (between the Nations) return, that God ſend an evil Spirit, or that a fire break out to the hazard and hurt of both Nations, as once between <hi>Abimelech</hi> and the men of <hi>Shechem,</hi> (which God in mercy avert and turn from us by converting and turning us both to him;) whom can we, for our parts, blame, or what may pro<g ref="char:EOLhyphen"/>bably be thought the cauſe thereof, unleſs it be that we have <hi>not performed the words</hi> (much leſs the matter) of the Covenant which we made before the Lord. Did we not all, and each one of us for himſelf,
+<note place="margin">Main articles of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not ob<g ref="char:EOLhyphen"/>ſerved by us.</note> with <hi>hands lifted up to the moſt high God, ſwear, and Covenant to endeavour, as the preſervation of the reformed Religion in the Church of</hi> Scotland, <hi>in Doctrine, Worſhip, Diſci<g ref="char:EOLhyphen"/>pline and Government againſt our common enemies;</hi> So <hi>the Re<g ref="char:EOLhyphen"/>formation of Religion in the Kingdoms of</hi> England <hi>and</hi> Ireland, <hi>in Doctrine, Worſhip, Diſcipline and Government, according to the Word of God, and the example of the best Reformed Churches.</hi> How is it, that the very words in this laſt clauſe, and ſome others, being otherwiſe plain enough, will not be underſtood much leſs performed, as if ſome Monſter were hid in them! Why is not the Reformation in ſeven years perfected, or Diſcipline eſtabliſhed, made free and authorized, though often ordered and ordained? And have we not in like manner covenanted <hi>to endeavour, with<g ref="char:EOLhyphen"/>out respect of perſons, the extirpation as of Popery, Prelacy, Su<g ref="char:EOLhyphen"/>perſtition, ſo of Hereſie, Schiſm, Prophaneſs, and whatſoever ſhall be found to be contrary to ſound doctrine, and the power of godlineſs? &amp;c.</hi> But to conſider how Hereſie, Schiſm, and Licentiouſ<g ref="char:EOLhyphen"/>neſs, both of doctrine and l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe, grow and increaſe almoſt beyond number, being alſo many of them ſo abominable, blaſphemous, diſhonorable to God,
+<note place="margin">The increaſe of Schi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, &amp; Hereſies, &amp;c.</note> pernicious to mens ſouls; and that even ſince we would ſeem humbled in ſolemn manner for the increaſe and growth of Errors, to ſee how theſe, and how looſeneſs of life alſo, are connived at in ſome, and unpuniſhed in all or moſt; For my part, I muſt profeſs, it amazeth me and ſtrikes aſtoniſh<g ref="char:EOLhyphen"/>ment in my heart; wondring at the patience of God, as not able almoſt to conceive any reaſon why God doth not from heaven viſibly and remarkably ſhew his vengeance not only on the Here<g ref="char:EOLhyphen"/>ticks,
+<pb n="35" facs="tcp:117623:18"/>Schiſmaticks and prophane Libertines themſelves, but on ſuch as have more power given them of God to <hi>reſtrain</hi> at leaſt ſuch evils then they uſe, or then they <hi>will</hi> uſe,
+<note place="margin">Not reſtrained.</note> whereby at leaſt a ſecret and implicite, if not <hi>open toleration</hi> is allowed to all ſorts, to think, hold, ſpread and practiſe what every one pleaſeth, and that without any viſible or real endeavours to reſtrain them. The theam is too large &amp; unpleaſant to dilate on: Only I wil ſay (refer<g ref="char:EOLhyphen"/>ring to what
+<note n="*" place="margin">Mr <hi>New<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>men</hi> and M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Caſe</hi> in their Sermons</note> others have ſaid in this kind and charged home upon the Parliament in their <hi>Applications</hi> to them more fully) that all my wit and charity cannot extend ſo far, as to conceive there can be any true zeal of Godsglory, hearty love to the truth of God or to the true eſtabliſhment thereof, or yet any true <hi>Chriſtian charity</hi> to mens ſouls, if ſuch a general toleration be permitted as is feared. Neither ſhall I ever wonder or <hi>complain,</hi> if God bring upon the Nation as great judgments as any he hath brought upon others in like caſe, or unheard of and new plagues, for ſuch re<g ref="char:EOLhyphen"/>viving of old Hereſies and broaching of new, being eſpecially ſo winked at, to ſay no more.</p>
+            <p>Secondly,
+<note n="2" place="margin">To ſuch as ſtand out a<g ref="char:EOLhyphen"/>gainſt it.</note> For ſuch as yet are profeſſed <hi>enemies</hi> to this national Covenant (who commonly are ſuch as are looſe enough in their Covenant with God, as Chriſtians) <hi>I wonder what</hi> peace <hi>they</hi> can expect from God, whileſt <hi>either</hi> they joyn not in ſo needful a contract (as the times are) and ſide not with God and his cauſe and people againſt ſin, the world, fleſh and devil, as yet by <hi>Bap<g ref="char:EOLhyphen"/>tiſm</hi> they ſeemed to covenant with him; and againſt Antichri<g ref="char:EOLhyphen"/>ſtian doctrine, diſcipline and devotion and alſo practiſes; or that they oppoſe and fight againſt thoſe that have ſo covenanted: They may remember how <hi>Irelands</hi> Parliament declaring themſelves a<g ref="char:EOLhyphen"/>gainſt the covenanters in <hi>Scotland</hi> had the ſword at their heels preſently, in the breaking out of that helliſh, barbarous, popiſh Rebellion and Miſſacre there; and what hath befaln that party in <hi>England</hi> which ſeconded them (to their power) by taking up Arms againſt the contents of that Covenant; <hi>or</hi> what <hi>thoſe may yet</hi> expect who perſiſt in that enmity ſtill, or otherwiſe retract or would make themſelves free of that their Obligation and Vow.</p>
+            <p>For us all of both parties I ſay only this: I wiſh,
+<note n="3" place="margin">To all of both parties.</note> that as we have ſtill cauſe to expect greater evils, ſo the true <hi>cauſe</hi> were not ſpecially found in our breach of Covenant with God and man:
+<pb facs="tcp:117623:19"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have heard how with other evils it threatens change of Go<g ref="char:EOLhyphen"/>vernment,
+<note place="margin">The Kingdom threatned <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ceaſe.</note> and brought upon <hi>Iſrael,</hi> and then upon <hi>Iudah, a ceaſing of the Kingdom:</hi> when they ſhall ſay, <hi>We have no King.</hi> Now when ſhould they ſay <hi>this,</hi> and why? I take it is not ſo much meant of <hi>Zedekiah,</hi>
+               <note place="margin">2 Kings 24.15 16, 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and 15 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> when he was carryed away captive into <hi>Babylon,</hi> as of the <hi>King of Iſrael,</hi> namely King <hi>Hoſhea,</hi> the laſt King of the ten trib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: And why? becauſe he kept not Co<g ref="char:EOLhyphen"/>venant with him, 2 <hi>King.</hi> 17.1, 2, 3, 4, <hi>&amp;c.</hi> after whom was no appearance of any royal Government, (as partly was in <hi>Iudah</hi> preſently after the captivity, and in the times long after, till Chriſt their ſpiritual King came;) but if we refer it to <hi>Manaſſeh</hi> the laſt Kin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Iudah,</hi> then the words may relate to that his Cove<g ref="char:EOLhyphen"/>nant in this 34 of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eremy;</hi> which he turned from, and that cauſed <hi>the return of the Babyloniſh army,</hi> as we have heard. I make no <hi>application:</hi> only the Lord give grace and wiſdom to all of this our Nation, of all ſorts, that our averſeneſs to, or looſeneſs in our keeping our Vows with God and man bring not like evils upon us. <hi>Amen<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
